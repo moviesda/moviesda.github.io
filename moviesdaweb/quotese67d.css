@@ -1,0 +1,92 @@
+.modal-dialog-content {
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: "Helvetica Nue", Helvetica, Arial, Verdana, sans-serif;
+  }
+
+  .modal-dialog-content .subtitle {
+    font-family: "Helvetica";
+    font-size: 14px;
+    font-weight: bold;
+    color: #409EFF;
+    margin-top: 30px;
+  }
+
+  .modal-dialog-content blockquote {
+    background: #F2F6FC;
+    border-left: 10px solid #EBEEF5;
+    margin: 1.5em 10px;
+    padding: 30px;
+    color: #909399;
+  }
+
+isaitext {
+font-family: 'Baloo Thambi 2', cursive;
+}
+
+blockquote {
+  position: relative;
+	padding-left:50px;
+	color:#333;
+  quotes: "\201C""\201D""\2018""\2019";
+
+  &::before,
+  &::after {
+    color: #c6c6c6;
+    font-size: 2.0em;
+    font-weight: 400;
+    line-height: 0.1em;
+  }
+  &::before {
+		position: absolute;
+		left:0;
+    content: open-quote;
+    margin-right: 0.15em;
+    vertical-align: -0.15em;
+  }
+  &::after {
+    content: close-quote;
+    vertical-align: -0.7em;
+  }
+}
+
+
+
+cite {
+      display: block;
+      font-style: italic;
+      text-align: right;
+      &:before {
+        content: "- ";
+      }
+    }
+    > * {
+      position: relative;
+      z-index: 1;
+    }
+
+
+.typewriter h1 {
+  color: #fff;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+
