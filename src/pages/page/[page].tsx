@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { getAllPosts, getTotalPosts } from '@/lib/getPosts';
 import { PostMeta } from '@/lib/getPosts';
 
-const POSTS_PER_PAGE = 12;
+const POSTS_PER_PAGE = 25;
 
 export default function PaginatedPage({
     posts,
@@ -20,7 +20,7 @@ export default function PaginatedPage({
         <main className='border-x border-x-zinc-300 dark:border-x-zinc-600'>
 
 
-            <div className="grid p-10 grid-cols-2 justify-center items-center sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            <div className="flex flex-wrap justify-center items-center gap-4 p-4">
 
 
 
