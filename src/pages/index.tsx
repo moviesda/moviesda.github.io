@@ -2,6 +2,7 @@ import { getAllPosts, getTotalPosts } from '@/lib/getPosts';
 import Link from 'next/link';
 import { PostMeta } from '@/lib/getPosts';
 import MovieItemFeed from '@/components/Movieitemfeed';
+import { NextSeo } from 'next-seo';
 
 
 
@@ -19,36 +20,43 @@ export default function Home({
   const totalPages = Math.ceil(totalPosts / POSTS_PER_PAGE);
 
   return (
-    <main className=''>
+    <>
+      <NextSeo
+        title="1TamilMV: Tamil Movies Download"
+        description="Download the latest Tamil movies in HD quality. Explore a wide range of genres and find your favorite films on 1TamilMV."
+      />
+
+      <main className=''>
 
 
 
 
 
-      <MovieItemFeed moviefeed={posts} />
+        <MovieItemFeed moviefeed={posts} />
 
 
 
-      <div className='justify-center py-10 items-center grid'>
+        <div className='justify-center py-10 items-center grid'>
 
-        {/* Pagination */}
-        <div className="join grid justify-center items-center max-w-lg pb-10 grid-cols-2">
-          {currentPage > 1 ? (
-            <Link href={`/page/${currentPage - 1}`} className="join-item btn btn-outline">
-              &lt; Previous
-            </Link>
-          ) : (
-            <div></div> // Empty div to maintain the 2-column layout
-          )}
+          {/* Pagination */}
+          <div className="join grid justify-center items-center max-w-lg pb-10 grid-cols-2">
+            {currentPage > 1 ? (
+              <Link href={`/page/${currentPage - 1}`} className="join-item btn btn-outline">
+                &lt; Previous
+              </Link>
+            ) : (
+              <div></div> // Empty div to maintain the 2-column layout
+            )}
 
-          {currentPage < totalPages && (
-            <Link href={`/page/${currentPage + 1}`} className="join-item btn btn-outline">
-              Next &gt;
-            </Link>
-          )}
+            {currentPage < totalPages && (
+              <Link href={`/page/${currentPage + 1}`} className="join-item btn btn-outline">
+                Next &gt;
+              </Link>
+            )}
+          </div>
         </div>
-      </div>
-    </main>
+      </main>
+    </>
   );
 }
 

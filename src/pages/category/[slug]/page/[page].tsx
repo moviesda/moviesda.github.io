@@ -5,6 +5,7 @@ import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
 import { PostMeta } from '@/lib/getPosts';
 import MovieItemFeed from '@/components/Movieitemfeed';
+import { NextSeo } from 'next-seo';
 
 interface CategoryPageProps {
     category: string;
@@ -18,24 +19,30 @@ const POSTS_PER_PAGE = 20;
 
 export default function CategoryPage({ category, movies, currentPage, totalPages, slug }: CategoryPageProps) {
     return (
-        <div className="container mx-auto">
-            <h1 className="text-2xl font-bold mb-6">Category: {category} - Page {currentPage} </h1>
+        <>
+            <NextSeo
+                title={`Page ${currentPage}: ${category} Download - 1TamilMV`}
+                description="Explore a wide range of movie categories on 1TamilMV. Find your favorite genres and discover new films."
+            />
+            <div className="container mx-auto">
+                <h1 className="text-2xl font-bold mb-6">Category: {category} - Page {currentPage} </h1>
 
-            <MovieItemFeed moviefeed={movies} />
+                <MovieItemFeed moviefeed={movies} />
 
-            {/* Pagination */}
-            <div className="flex justify-center mt-8 space-x-2">
-                {Array.from({ length: totalPages }).map((_, index) => (
-                    <Link
-                        key={index}
-                        href={`/category/${slug}/page/${index + 1}`}
-                        className={`px-4 py-2 border rounded ${currentPage === index + 1 ? 'bg-gray-300' : ''}`}
-                    >
-                        {index + 1}
-                    </Link>
-                ))}
+                {/* Pagination */}
+                <div className="flex justify-center mt-8 space-x-2">
+                    {Array.from({ length: totalPages }).map((_, index) => (
+                        <Link
+                            key={index}
+                            href={`/category/${slug}/page/${index + 1}`}
+                            className={`px-4 py-2 border rounded ${currentPage === index + 1 ? 'bg-gray-300' : ''}`}
+                        >
+                            {index + 1}
+                        </Link>
+                    ))}
+                </div>
             </div>
-        </div>
+        </>
     );
 }
 

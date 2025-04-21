@@ -1,12 +1,19 @@
 import { getAllCategories } from '@/lib/getPosts';
 import Link from 'next/link';
+import { NextSeo } from 'next-seo';
 
 type Props = {
     categories: string[];
 };
 
 const AllCategoriesPage = ({ categories }: Props) => {
-    return (
+    return (<>
+
+        <NextSeo
+            title="Categories - 1TamilMV"
+            description="Explore a wide range of movie categories on 1TamilMV. Find your favorite genres and discover new films."
+        />
+
         <main className="mx-auto">
             <h1 className="text-3xl font-bold mb-8">All Categories</h1>
             <div className="grid grid-cols-1 items-center justify-center md:grid-cols-4 gap-4">
@@ -21,6 +28,7 @@ const AllCategoriesPage = ({ categories }: Props) => {
                 ))}
             </div>
         </main>
+    </>
     );
 };
 

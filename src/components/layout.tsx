@@ -22,7 +22,7 @@ export default function Layout({ children }: LayoutProps) {
                     alt="Logo"
                     className="w-12 h-12 object-cover"
                   />
-                  <span className="text-lg font-bold text-gray-800">Moviesda</span>
+                  <span className="text-lg font-bold text-gray-800">1TamilMV</span>
                 </div>
               </Link>
             </div>
@@ -46,7 +46,7 @@ export default function Layout({ children }: LayoutProps) {
                     Categories
                   </Link>
                 </li>
-                
+
               </ul>
             </nav>
 
@@ -75,7 +75,7 @@ export default function Layout({ children }: LayoutProps) {
       </main>
       <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4">
         <aside>
-          <p>Copyright © {new Date().getFullYear()} - All right reserved by Moviesda</p>
+          <p>Copyright © {new Date().getFullYear()} - All right reserved by 1TamilMV</p>
         </aside>
       </footer>
     </>
