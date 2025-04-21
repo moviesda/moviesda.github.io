@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Allow: /movie
+
+Sitemap: https://1tamilmv.mom/sitemaps/sitemap-index.xml
