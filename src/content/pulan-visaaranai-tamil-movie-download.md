@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:41:35
 updated_at: 2025-03-20 18:41:35
+categories:
+  - "Tamil Movies"
+directors:
+  - "R.K. Selvamani"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "1990"
 ---
-

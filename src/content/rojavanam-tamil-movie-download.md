@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:33:26
 updated_at: 2025-03-21 16:33:26
+categories:
+  - "Tamil Movies"
+directors:
+  - "Selva"
+genres:
+  - "N/A"
+years:
+  - "1999"
 ---
-

@@ -30,5 +30,16 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:32:44
 updated_at: 2025-04-10 19:32:44
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "ShamSurya JohnPaulRaj"
+  - "Jpr"
+  - "John Paul Raj"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2021"
 ---
-

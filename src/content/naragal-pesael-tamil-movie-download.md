@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:07:17
 updated_at: 2025-04-19 06:07:17
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Pavithran Krishnaveni"
+genres:
+  - "Crime"
+years:
+  - "2022"
 ---
-

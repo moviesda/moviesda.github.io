@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:05:37
 updated_at: 2025-04-08 16:05:37
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Prashanth Gunasekaran"
+genres:
+  - "Action"
+  - "Crime"
+years:
+  - "2017"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:43:45
 updated_at: 2025-03-21 16:43:45
+categories:
+  - "Tamil 2001 Movies"
+directors:
+  - "S. Ve. Sekar"
+genres:
+  - "Drama"
+years:
+  - "2001"
 ---
-

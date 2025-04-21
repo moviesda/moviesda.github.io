@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:10:57
 updated_at: 2025-04-18 19:10:57
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Vikram Ramesh"
+genres:
+  - "Mystery"
+years:
+  - "2023"
 ---
-

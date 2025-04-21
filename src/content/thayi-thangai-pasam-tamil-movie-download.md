@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:43
 updated_at: 2025-03-20 19:19:43
+categories:
+  - "Tamil Movies"
+directors:
+  - "Thesingu Rajendar"
+genres:
+  - "N/A"
+years:
+  - "1995"
 ---
-

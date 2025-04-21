@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:10:48
 updated_at: 2025-04-18 19:10:48
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Jeyaraj Palani"
+genres:
+  - "Romance"
+years:
+  - "2023"
 ---
-

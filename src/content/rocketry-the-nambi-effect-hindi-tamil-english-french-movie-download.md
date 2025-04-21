@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:56
 updated_at: 2025-04-10 19:52:56
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Madhavan"
+genres:
+  - "Biography"
+  - "Drama"
+years:
+  - "2022"
 ---
-

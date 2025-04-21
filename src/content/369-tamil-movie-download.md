@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:55
 updated_at: 2025-04-18 19:09:55
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Shiva Madhav"
+genres:
+  - "Sci-Fi"
+years:
+  - "2023"
 ---
-

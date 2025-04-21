@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:50:01
 updated_at: 2025-03-21 16:50:01
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Thriller"
+years:
+  - "2002"
 ---
-

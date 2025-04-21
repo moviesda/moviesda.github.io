@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:37:23
 updated_at: 2025-03-21 16:37:23
+categories:
+  - "Tamil Movies"
+directors:
+  - "Kalaimani Rk"
+genres:
+  - "Comedy"
+years:
+  - "2000"
 ---
-

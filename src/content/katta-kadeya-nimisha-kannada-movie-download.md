@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:12:48
 updated_at: 2025-04-10 19:12:48
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Jagan Aloysius"
+genres:
+  - "Horror"
+years:
+  - "2019"
 ---
-

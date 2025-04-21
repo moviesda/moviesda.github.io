@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:22:00
 updated_at: 2025-04-10 19:22:00
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "S. Kumar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Music"
+years:
+  - "2020"
 ---
-

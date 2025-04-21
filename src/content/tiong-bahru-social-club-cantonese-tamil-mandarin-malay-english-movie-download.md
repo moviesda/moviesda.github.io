@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:20:59
 updated_at: 2025-04-10 19:20:59
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Bee Thiam Tan"
+genres:
+  - "Comedy"
+years:
+  - "2020"
 ---
-

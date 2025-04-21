@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:06:16
 updated_at: 2025-03-22 08:06:16
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Arivazhagan Venkatachalam"
+genres:
+  - "Crime"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2009"
 ---
-

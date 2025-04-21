@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:53:23
 updated_at: 2025-03-21 16:53:23
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Hari"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2003"
 ---
-

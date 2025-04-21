@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:14:41
 updated_at: 2025-04-18 17:14:41
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Vijay Antony"
+genres:
+  - "Action"
+  - "Drama"
+  - "Sci-Fi"
+years:
+  - "2023"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:03:58
 updated_at: 2025-04-08 16:03:58
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Adhiroopan"
+genres:
+  - "Romance"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

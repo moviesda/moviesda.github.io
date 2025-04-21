@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:22:47
 updated_at: 2025-04-01 11:22:47
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Gitanjali Selvaraghavan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2016"
 ---
-

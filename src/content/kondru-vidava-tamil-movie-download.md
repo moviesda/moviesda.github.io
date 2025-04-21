@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:01
 updated_at: 2025-04-10 19:51:01
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Horror"
+years:
+  - "2022"
 ---
-

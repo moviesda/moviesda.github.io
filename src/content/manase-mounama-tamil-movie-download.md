@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:23:25
 updated_at: 2025-03-22 06:23:25
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "R. Senthamil Arasu"
+genres:
+  - "Drama"
+years:
+  - "2007"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:41:07
 updated_at: 2025-03-22 09:41:07
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Krishnan Jayaraj"
+genres:
+  - "Romance"
+years:
+  - "2013"
 ---
-

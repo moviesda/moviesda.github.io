@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:24:17
 updated_at: 2025-04-01 11:24:17
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Sai Gokul Ramanath"
+genres:
+  - "Comedy"
+years:
+  - "2016"
 ---
-

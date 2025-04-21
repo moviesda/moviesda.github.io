@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:10:08
 updated_at: 2025-04-01 11:10:08
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "London Baba"
+genres:
+  - "Action"
+years:
+  - "2015"
 ---
-

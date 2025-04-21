@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:37
 updated_at: 2025-03-21 03:12:37
+categories:
+  - "Tamil Movies"
+directors:
+  - "L.M. Balaji"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Thriller"
+years:
+  - "1997"
 ---
-

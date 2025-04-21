@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:10:58
 updated_at: 2025-04-01 11:10:58
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Robert"
+genres:
+  - "N/A"
+years:
+  - "2015"
 ---
-

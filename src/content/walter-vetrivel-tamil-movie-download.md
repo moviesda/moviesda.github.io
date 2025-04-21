@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:13:10
 updated_at: 2025-03-20 19:13:10
+categories:
+  - "Tamil Movies"
+directors:
+  - "P. Vasu"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "1993"
 ---
-

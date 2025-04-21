@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:24:30
 updated_at: 2025-04-01 11:24:30
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Francis Markus"
+genres:
+  - "Comedy"
+years:
+  - "2016"
 ---
-

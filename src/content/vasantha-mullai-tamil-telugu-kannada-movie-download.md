@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:12:38
 updated_at: 2025-04-18 17:12:38
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Ramanan Purushothama"
+genres:
+  - "Drama"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

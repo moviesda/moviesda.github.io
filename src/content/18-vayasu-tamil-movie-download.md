@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:51
 updated_at: 2025-03-22 09:32:51
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "R. Panneerselvam"
+  - "Swami Rajalingam"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2012"
 ---
-

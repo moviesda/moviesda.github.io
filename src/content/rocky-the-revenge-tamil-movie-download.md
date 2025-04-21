@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:10:50
 updated_at: 2025-04-10 19:10:50
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "K.C. Bokadia"
+genres:
+  - "Drama"
+years:
+  - "2019"
 ---
-

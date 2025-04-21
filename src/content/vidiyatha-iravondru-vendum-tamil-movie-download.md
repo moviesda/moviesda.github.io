@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:42
 updated_at: 2025-04-10 19:51:42
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Karuppaiyaa Murugan"
+genres:
+  - "Thriller"
+years:
+  - "2022"
 ---
-

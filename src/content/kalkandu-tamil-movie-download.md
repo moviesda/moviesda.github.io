@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:51:20
 updated_at: 2025-04-01 10:51:20
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "A.M. Nandakumar"
+genres:
+  - "Comedy"
+years:
+  - "2014"
 ---
-

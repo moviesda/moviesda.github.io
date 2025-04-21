@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:37:32
 updated_at: 2025-03-21 16:37:32
+categories:
+  - "Tamil Movies"
+directors:
+  - "N/A"
+genres:
+  - "Thriller"
+years:
+  - "2000"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:29:19
 updated_at: 2025-03-22 04:29:19
+categories:
+  - "Tamil 2005 Movies"
+directors:
+  - "Hari"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2005"
 ---
-

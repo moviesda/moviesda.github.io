@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:32:13
 updated_at: 2025-03-22 07:32:13
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "R. Nithyakumar"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2008"
 ---
-

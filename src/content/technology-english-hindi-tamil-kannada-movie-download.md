@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:58:02
 updated_at: 2025-04-10 18:58:02
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Maiko Endo"
+genres:
+  - "Documentary"
+  - "Fantasy"
+years:
+  - "2018"
 ---
-

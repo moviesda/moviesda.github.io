@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:55:32
 updated_at: 2025-03-21 16:55:32
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Karthik Kumar"
+genres:
+  - "Comedy"
+years:
+  - "2003"
 ---
-

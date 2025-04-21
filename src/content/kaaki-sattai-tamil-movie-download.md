@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:47
 updated_at: 2025-04-01 11:09:47
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "R.S. Durai Senthilkumar"
+  - "Harish Ram L.H."
+genres:
+  - "Action"
+years:
+  - "2015"
 ---
-

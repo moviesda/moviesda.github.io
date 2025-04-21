@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:21:20
 updated_at: 2025-03-20 19:21:20
+categories:
+  - "Tamil Movies"
+directors:
+  - "K.S. Ravi"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Romance"
+years:
+  - "1996"
 ---
-

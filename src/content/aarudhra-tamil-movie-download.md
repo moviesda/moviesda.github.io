@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:32
 updated_at: 2025-04-10 18:59:32
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Pa. Vijay"
+genres:
+  - "Drama"
+years:
+  - "2018"
 ---
-

@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:08:30
 updated_at: 2025-04-19 06:08:30
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Jack Prabhu"
+  - "Santoshh"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2023"
 ---
-

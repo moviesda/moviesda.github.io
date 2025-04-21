@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:41:14
 updated_at: 2025-03-22 09:41:14
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Sasi"
+genres:
+  - "Action"
+years:
+  - "2013"
 ---
-

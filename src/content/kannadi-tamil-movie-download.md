@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:15:02
 updated_at: 2025-04-10 19:15:02
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Caarthick Raju"
+genres:
+  - "Drama"
+  - "Horror"
+  - "Romance"
+years:
+  - "2019"
 ---
-

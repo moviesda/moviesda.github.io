@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:58:14
 updated_at: 2025-04-10 18:58:14
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "B.R. Vijayalakshmi"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2018"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:13:26
 updated_at: 2025-04-01 11:13:26
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Sampath Nandi"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2015"
 ---
-

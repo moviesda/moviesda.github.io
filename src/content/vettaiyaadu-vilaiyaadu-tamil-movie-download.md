@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:34:09
 updated_at: 2025-03-22 04:34:09
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "Gautham Vasudev Menon"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2006"
 ---
-

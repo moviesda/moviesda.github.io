@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:35:43
 updated_at: 2025-03-22 10:35:43
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Anand Shankar"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2014"
 ---
-

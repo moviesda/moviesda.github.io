@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:23:04
 updated_at: 2025-03-21 16:23:04
+categories:
+  - "Tamil Movies"
+directors:
+  - "K.S. Adiyaman"
+genres:
+  - "Drama"
+years:
+  - "1998"
 ---
-

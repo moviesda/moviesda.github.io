@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:39:12
 updated_at: 2025-04-19 05:39:12
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Kannan Thamarakkulam"
+genres:
+  - "Action"
+years:
+  - "2024"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:21:56
 updated_at: 2025-03-20 19:21:56
+categories:
+  - "Tamil Movies"
+directors:
+  - "R. Raghu"
+genres:
+  - "Drama"
+years:
+  - "1996"
 ---
-

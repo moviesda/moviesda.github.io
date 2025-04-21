@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:30:55
 updated_at: 2025-03-22 07:30:55
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "Raju Sundaram"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2008"
 ---
-

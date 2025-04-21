@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:21:45
 updated_at: 2025-04-10 19:21:45
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Arunkumar Senthil"
+genres:
+  - "Documentary"
+years:
+  - "2020"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:14:44
 updated_at: 2025-04-18 17:14:44
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Santosh Sivan"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Sci-Fi"
+years:
+  - "2023"
 ---
-

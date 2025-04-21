@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:30
 updated_at: 2025-03-22 08:15:30
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Ravi Varman"
+genres:
+  - "Romance"
+years:
+  - "2010"
 ---
-

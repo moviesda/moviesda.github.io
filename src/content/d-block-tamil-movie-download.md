@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:53:30
 updated_at: 2025-04-10 19:53:30
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Vijay Kumar Rajendran"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

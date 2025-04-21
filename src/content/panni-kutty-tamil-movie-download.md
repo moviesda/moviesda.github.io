@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:53:38
 updated_at: 2025-04-10 19:53:38
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Anucharan Murugaiyan"
+genres:
+  - "Drama"
+years:
+  - "2022"
 ---
-

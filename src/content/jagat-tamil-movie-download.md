@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:13:32
 updated_at: 2025-04-01 11:13:32
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Shanjey Kumar Perumal"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Family"
+years:
+  - "2015"
 ---
-

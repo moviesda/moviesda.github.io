@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:20:27
 updated_at: 2025-04-10 19:20:27
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Ja Ragupathi"
+genres:
+  - "Romance"
+years:
+  - "2020"
 ---
-

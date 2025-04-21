@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:04
 updated_at: 2025-04-18 19:09:04
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "M. Selvakumar"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2023"
 ---
-

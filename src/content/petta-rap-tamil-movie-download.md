@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:39:39
 updated_at: 2025-04-19 05:39:39
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "S.J. Sinu"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Musical"
+years:
+  - "2024"
 ---
-

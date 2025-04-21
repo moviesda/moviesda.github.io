@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:39:15
 updated_at: 2025-03-22 09:39:15
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Barani Jayapal"
+genres:
+  - "N/A"
+years:
+  - "2013"
 ---
-

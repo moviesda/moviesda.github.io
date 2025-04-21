@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:50
 updated_at: 2025-04-10 19:52:50
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "M. Padmakumar"
+  - "R.K. Suresh"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:12:12
 updated_at: 2025-04-10 19:12:12
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Selva Sekaran"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2019"
 ---
-

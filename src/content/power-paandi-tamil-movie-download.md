@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:38
 updated_at: 2025-04-08 16:04:38
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Dhanush"
+genres:
+  - "Action"
+  - "Drama"
+  - "Musical"
+years:
+  - "2017"
 ---
-

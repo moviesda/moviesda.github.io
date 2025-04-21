@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:05:53
 updated_at: 2025-04-08 16:05:53
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Ashok Amritharaj S."
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2017"
 ---
-

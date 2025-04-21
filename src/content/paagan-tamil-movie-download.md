@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:59
 updated_at: 2025-03-22 09:32:59
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Mohammed Aslam"
+genres:
+  - "Comedy"
+years:
+  - "2012"
 ---
-

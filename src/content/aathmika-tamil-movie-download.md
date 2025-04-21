@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:11:54
 updated_at: 2025-04-18 19:11:54
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Damodharan Selvakumar"
+genres:
+  - "Horror"
+years:
+  - "2023"
 ---
-

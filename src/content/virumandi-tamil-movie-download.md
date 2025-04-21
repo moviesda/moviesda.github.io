@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:15:30
 updated_at: 2025-03-22 03:15:30
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Kamal Haasan"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2004"
 ---
-

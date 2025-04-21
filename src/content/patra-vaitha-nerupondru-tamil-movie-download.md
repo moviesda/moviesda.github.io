@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:21:01
 updated_at: 2025-04-10 19:21:01
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Vinoth Rajendran"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2020"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:29:12
 updated_at: 2025-04-10 19:29:12
+categories:
+  - "Telugu 2021 Movies"
+directors:
+  - "Dhilip Kumar"
+genres:
+  - "Adventure"
+  - "Mystery"
+  - "Romance"
+years:
+  - "2021"
 ---
-

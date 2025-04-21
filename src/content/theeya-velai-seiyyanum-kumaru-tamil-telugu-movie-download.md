@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:40:43
 updated_at: 2025-03-22 09:40:43
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Sundar C."
+genres:
+  - "Comedy"
+years:
+  - "2013"
 ---
-

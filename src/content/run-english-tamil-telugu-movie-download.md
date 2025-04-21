@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:48:31
 updated_at: 2025-03-21 16:48:31
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "N. Linguswamy"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2002"
 ---
-

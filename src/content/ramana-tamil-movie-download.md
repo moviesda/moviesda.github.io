@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:48:23
 updated_at: 2025-03-21 16:48:23
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "A.R. Murugadoss"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2002"
 ---
-

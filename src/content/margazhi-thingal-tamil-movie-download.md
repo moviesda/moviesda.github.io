@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:11:19
 updated_at: 2025-04-18 19:11:19
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Manoj K. Bharathi"
+genres:
+  - "Drama"
+years:
+  - "2023"
 ---
-

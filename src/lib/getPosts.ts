@@ -4,6 +4,90 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
+export function getAllMovies() {
+    const contentDir = path.join(process.cwd(), 'src', 'content');
+    const files = fs.readdirSync(contentDir);
+
+    const movies = files.map((fileName) => {
+        const filePath = path.join(contentDir, fileName);
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        const { data } = matter(fileContent);
+
+        return {
+            ...data,
+            created_at: data.created_at ? String(data.created_at) : null,
+            updated_at: data.updated_at ? String(data.updated_at) : null,
+        };
+    });
+
+    return movies;
+}
+
+export async function getAllCategories(): Promise<string[]> {
+    const contentDir = path.join(process.cwd(), 'src', 'content');
+    const files = fs.readdirSync(contentDir);
+
+    let categories: string[] = [];
+
+    for (const fileName of files) {
+        const filePath = path.join(contentDir, fileName);
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        const { data } = matter(fileContent);
+
+        if (data.categories && Array.isArray(data.categories)) {
+            categories.push(...data.categories);
+        }
+    }
+
+    const uniqueCategories = [...new Set(categories)].sort();
+    return uniqueCategories;
+}
+
+
+export async function getGenres(): Promise<string[]> {
+    const contentDir = path.join(process.cwd(), 'src', 'content');
+    const files = fs.readdirSync(contentDir);
+
+    let genres: string[] = [];
+
+    for (const fileName of files) {
+        const filePath = path.join(contentDir, fileName);
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        const { data } = matter(fileContent);
+
+        if (data.genres && Array.isArray(data.genres)) {
+            genres.push(...data.genres);
+        }
+    }
+
+    const uniqueGenres = [...new Set(genres)].sort();
+    return uniqueGenres;
+}
+
+export async function getUniqueField(fieldName: string): Promise<string[]> {
+    const contentDir = path.join(process.cwd(), 'src', 'content');
+    const files = fs.readdirSync(contentDir);
+
+    let values: string[] = [];
+
+    for (const fileName of files) {
+        const filePath = path.join(contentDir, fileName);
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        const { data } = matter(fileContent);
+
+        if (data[fieldName]) {
+            if (Array.isArray(data[fieldName])) {
+                values.push(...data[fieldName]);
+            } else if (typeof data[fieldName] === 'string') {
+                values.push(data[fieldName]);
+            }
+        }
+    }
+
+    const uniqueValues = [...new Set(values)].sort();
+    return uniqueValues;
+}
+
 // Define PostMeta type
 export interface PostMeta {
     id: number;
@@ -35,9 +119,16 @@ export interface PostMeta {
     screenshots: string | null;
     redirect_to: string | null;
     social_shares: number;
-    created_at: string;  // important: keep as string
-    updated_at: string;  // important: keep as string
+    created_at: string;
+    updated_at: string;
+
+    // 👇 newly added fields
+    categories: string[];
+    directors: string[];
+    genres: string[];
+    years: string[];
 }
+
 
 export interface Post extends PostMeta {
     contentHtml: string;

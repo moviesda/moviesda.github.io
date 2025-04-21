@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:35:38
 updated_at: 2025-03-22 10:35:38
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Guru Ramesh"
+genres:
+  - "Drama"
+  - "Family"
+  - "Mystery"
+years:
+  - "2014"
 ---
-

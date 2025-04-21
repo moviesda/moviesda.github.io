@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:57:40
 updated_at: 2025-04-18 16:57:40
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "S.S. Sameer"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2022"
 ---
-

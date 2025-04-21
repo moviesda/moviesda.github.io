@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:50:29
 updated_at: 2025-03-21 16:50:29
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Arpudhan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2002"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:50:14
 updated_at: 2025-03-21 16:50:14
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Kathir"
+genres:
+  - "Romance"
+years:
+  - "2002"
 ---
-

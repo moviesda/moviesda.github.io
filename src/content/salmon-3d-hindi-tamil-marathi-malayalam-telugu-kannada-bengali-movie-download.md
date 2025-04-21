@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:58
 updated_at: 2025-04-18 19:08:58
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Shalil Kallur"
+genres:
+  - "Romance"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

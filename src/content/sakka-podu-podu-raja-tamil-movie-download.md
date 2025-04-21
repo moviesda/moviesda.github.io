@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:08:37
 updated_at: 2025-04-08 16:08:37
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "G.L. Sethuraman"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2017"
 ---
-

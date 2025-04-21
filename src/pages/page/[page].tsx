@@ -2,8 +2,9 @@
 import Link from 'next/link';
 import { getAllPosts, getTotalPosts } from '@/lib/getPosts';
 import { PostMeta } from '@/lib/getPosts';
+import MovieItemFeed from '@/components/Movieitemfeed';
 
-const POSTS_PER_PAGE = 25;
+const POSTS_PER_PAGE = 20;
 
 export default function PaginatedPage({
     posts,
@@ -17,35 +18,12 @@ export default function PaginatedPage({
     const totalPages = Math.ceil(totalPosts / POSTS_PER_PAGE);
 
     return (
-        <main className='border-x border-x-zinc-300 dark:border-x-zinc-600'>
+        <main className=''>
 
 
-            <div className="flex flex-wrap justify-center items-center gap-4 p-4">
+            <MovieItemFeed moviefeed={posts} />
 
-
-
-                {posts.map((post) => (
-                    <>
-                        <Link className='border border-zinc-300 dark:border-zinc-600 rounded-box' key={post.id} href={`/movie/${post.slug}`}>
-
-                            <div className="card grid justify-center  items-center text-center gap-2 bg-base-300 shadow-xl">
-                                <img src={post.remote_poster ?? "https://placehold.co/200x250"} className='rounded-box w-48 bg-black h-64' alt="" />
-
-                                <span className='truncate p-2'>
-                                    {post.name}
-                                </span>
-
-                            </div>
-                        </Link>
-
-                    </>
-                ))}
-
-
-
-
-            </div>
-            <div className='justify-center items-center grid'>
+            <div className='justify-center py-10 items-center grid'>
 
                 {/* Pagination */}
                 <div className="join grid justify-center items-center max-w-lg pb-10 grid-cols-2">

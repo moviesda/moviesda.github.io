@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:06:11
 updated_at: 2025-03-22 08:06:11
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Meera Kathiravan"
+genres:
+  - "Comedy"
+years:
+  - "2009"
 ---
-

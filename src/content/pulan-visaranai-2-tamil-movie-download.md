@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:26
 updated_at: 2025-04-01 11:09:26
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "R.K. Selvamani"
+genres:
+  - "Thriller"
+years:
+  - "2015"
 ---
-

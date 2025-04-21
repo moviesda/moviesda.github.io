@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:06:49
 updated_at: 2025-04-08 16:06:49
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Mysskin"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

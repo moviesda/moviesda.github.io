@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:07:08
 updated_at: 2025-04-08 16:07:08
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Ramanaw Mallam"
+genres:
+  - "Action"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

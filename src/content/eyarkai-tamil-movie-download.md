@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:54:02
 updated_at: 2025-03-21 16:54:02
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "S.P. Jhananathan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2003"
 ---
-

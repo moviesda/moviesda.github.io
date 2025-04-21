@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:24:08
 updated_at: 2025-03-22 08:24:08
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "T.T. Dhavamanni"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2010"
 ---
-

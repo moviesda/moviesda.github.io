@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:41
 updated_at: 2025-03-20 19:19:41
+categories:
+  - "Tamil Movies"
+directors:
+  - "Gokula Krishnan"
+genres:
+  - "N/A"
+years:
+  - "1995"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:08
 updated_at: 2025-04-08 16:04:08
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Mani Seiyon"
+genres:
+  - "Comedy"
+years:
+  - "2017"
 ---
-

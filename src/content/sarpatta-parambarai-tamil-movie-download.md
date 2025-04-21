@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:32:14
 updated_at: 2025-04-10 19:32:14
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Pa. Ranjith"
+genres:
+  - "Action"
+  - "Drama"
+  - "Sport"
+years:
+  - "2021"
 ---
-

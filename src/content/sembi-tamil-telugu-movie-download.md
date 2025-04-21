@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:57:15
 updated_at: 2025-04-18 16:57:15
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Prabu Solomon"
+genres:
+  - "Drama"
+years:
+  - "2022"
 ---
-

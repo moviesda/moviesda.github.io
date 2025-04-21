@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:11
 updated_at: 2025-03-22 09:32:11
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Magizh Thirumeni"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2012"
 ---
-

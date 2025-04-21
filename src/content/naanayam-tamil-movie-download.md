@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:16:23
 updated_at: 2025-03-22 08:16:23
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Shakthi S. Rajan"
+genres:
+  - "Crime"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2010"
 ---
-

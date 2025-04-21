@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:40
 updated_at: 2025-04-10 19:52:40
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "K.K. Khanna"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2022"
 ---
-

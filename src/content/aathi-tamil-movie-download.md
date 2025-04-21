@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:33:56
 updated_at: 2025-03-22 04:33:56
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "Ramana"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2006"
 ---
-

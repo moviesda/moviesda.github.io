@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:06:32
 updated_at: 2025-03-22 08:06:32
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Babu Sivan"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2009"
 ---
-

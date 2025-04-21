@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:41
 updated_at: 2025-03-21 16:32:41
+categories:
+  - "Tamil Movies"
+directors:
+  - "Sundar C."
+  - "Liyakat Ali Khan"
+  - "K.S. Ravikumar"
+genres:
+  - "Comedy"
+years:
+  - "1999"
 ---
-

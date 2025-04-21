@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:13:06
 updated_at: 2025-03-20 19:13:06
+categories:
+  - "Tamil Movies"
+directors:
+  - "Manoj Kumar"
+genres:
+  - "Action"
+years:
+  - "1993"
 ---
-

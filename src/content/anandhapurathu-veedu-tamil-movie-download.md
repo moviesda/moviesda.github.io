@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:52
 updated_at: 2025-03-22 08:15:52
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Naga"
+  - "Swami Rajalingam"
+genres:
+  - "Mystery"
+years:
+  - "2010"
 ---
-

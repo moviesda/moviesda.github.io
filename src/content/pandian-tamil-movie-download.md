@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:57:02
 updated_at: 2025-03-20 18:57:02
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.P. Muthuraman"
+genres:
+  - "Action"
+  - "Crime"
+years:
+  - "1992"
 ---
-

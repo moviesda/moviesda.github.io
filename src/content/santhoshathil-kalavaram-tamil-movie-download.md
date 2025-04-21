@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:00:30
 updated_at: 2025-04-10 19:00:30
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Kranthi Prasad"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2018"
 ---
-

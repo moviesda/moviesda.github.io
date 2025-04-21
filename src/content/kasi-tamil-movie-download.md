@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:42:43
 updated_at: 2025-03-21 16:42:43
+categories:
+  - "Tamil 2001 Movies"
+directors:
+  - "Vinayan"
+genres:
+  - "Drama"
+years:
+  - "2001"
 ---
-

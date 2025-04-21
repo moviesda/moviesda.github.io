@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:39:17
 updated_at: 2025-03-22 08:39:17
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2011"
 ---
-

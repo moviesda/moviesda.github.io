@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:03:27
 updated_at: 2025-04-19 05:03:27
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Arun Matheswaran"
+genres:
+  - "Action"
+  - "Adventure"
+  - "Drama"
+years:
+  - "2024"
 ---
-

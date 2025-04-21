@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:48
 updated_at: 2025-04-10 18:59:48
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Bala Ganapathi William"
+genres:
+  - "Romance"
+years:
+  - "2018"
 ---
-

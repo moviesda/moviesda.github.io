@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:11:32
 updated_at: 2025-04-18 19:11:32
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Hemanth M. Rao"
+genres:
+  - "Action"
+  - "Drama"
+  - "Romance"
+years:
+  - "2023"
 ---
-

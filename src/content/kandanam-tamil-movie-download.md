@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:42:56
 updated_at: 2025-03-22 09:42:56
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Subramaniam Janardhan"
+genres:
+  - "Thriller"
+years:
+  - "2013"
 ---
-

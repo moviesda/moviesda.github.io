@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:43:30
 updated_at: 2025-03-21 16:43:30
+categories:
+  - "Tamil 2001 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Romance"
+years:
+  - "2001"
 ---
-

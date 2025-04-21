@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:20:25
 updated_at: 2025-04-10 19:20:25
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "S.G. Charles"
+genres:
+  - "Drama"
+years:
+  - "2020"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:41:38
 updated_at: 2025-03-20 18:41:38
+categories:
+  - "Tamil Movies"
+directors:
+  - "Ramadas E."
+  - "Shanmugapriyan"
+genres:
+  - "N/A"
+years:
+  - "1990"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:21:47
 updated_at: 2025-03-22 06:21:47
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "Robert Dyke"
+genres:
+  - "Sci-Fi"
+years:
+  - "2007"
 ---
-

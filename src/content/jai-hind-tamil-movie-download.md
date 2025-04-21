@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:17:04
 updated_at: 2025-03-20 19:17:04
+categories:
+  - "Tamil Movies"
+directors:
+  - "Arjun Sarja"
+genres:
+  - "Action"
+years:
+  - "1994"
 ---
-

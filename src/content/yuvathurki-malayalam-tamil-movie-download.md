@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:21:39
 updated_at: 2025-03-20 19:21:39
+categories:
+  - "Tamil Movies"
+directors:
+  - "Bhadran"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "1996"
 ---
-

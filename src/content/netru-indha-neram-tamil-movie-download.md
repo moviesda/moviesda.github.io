@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:05:17
 updated_at: 2025-04-19 05:05:17
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Sai Roshan KR"
+genres:
+  - "Crime"
+years:
+  - "2024"
 ---
-

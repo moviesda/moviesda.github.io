@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:07:05
 updated_at: 2025-03-22 08:07:05
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "GK Aanantha Varshan"
+genres:
+  - "Family"
+years:
+  - "2009"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:28
 updated_at: 2025-03-20 19:19:28
+categories:
+  - "Tamil Movies"
+directors:
+  - "Gnana Rajasekaran"
+genres:
+  - "Drama"
+  - "Musical"
+years:
+  - "1995"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:40:12
 updated_at: 2025-03-22 04:40:12
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "Tamilvannan"
+genres:
+  - "Romance"
+years:
+  - "2006"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:35
 updated_at: 2025-04-10 19:52:35
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Sarov Shanmugam"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2022"
 ---
-

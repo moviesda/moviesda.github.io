@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:39:23
 updated_at: 2025-03-22 09:39:23
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "R. Balaji"
+genres:
+  - "N/A"
+years:
+  - "2013"
 ---
-

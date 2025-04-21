@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:39:12
 updated_at: 2025-03-22 08:39:12
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Siva"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Crime"
+years:
+  - "2011"
 ---
-

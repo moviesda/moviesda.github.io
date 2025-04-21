@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:35:12
 updated_at: 2025-03-22 10:35:12
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Soundarya Rajinikanth Vishagan"
+genres:
+  - "Animation"
+  - "Action"
+  - "Adventure"
+years:
+  - "2014"
 ---
-

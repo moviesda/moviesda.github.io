@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:20:04
 updated_at: 2025-04-10 19:20:04
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "JJ Fredrick"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2020"
 ---
-

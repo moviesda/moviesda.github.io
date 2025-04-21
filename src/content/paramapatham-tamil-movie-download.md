@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:37
 updated_at: 2025-04-10 19:18:37
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Thanesh Perrabu"
+  - "Perrabu Viknesh"
+genres:
+  - "Fantasy"
+years:
+  - "2020"
 ---
-

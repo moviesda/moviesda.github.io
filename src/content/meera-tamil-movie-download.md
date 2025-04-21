@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:57:07
 updated_at: 2025-03-20 18:57:07
+categories:
+  - "Tamil Movies"
+directors:
+  - "P.C. Sreeram"
+genres:
+  - "Musical"
+years:
+  - "1992"
 ---
-

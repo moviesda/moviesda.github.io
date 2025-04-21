@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:13:13
 updated_at: 2025-04-18 17:13:13
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Syam Praveen"
+genres:
+  - "Thriller"
+years:
+  - "2023"
 ---
-

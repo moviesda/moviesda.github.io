@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:08:39
 updated_at: 2025-04-19 06:08:39
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Innasi Pandiyan"
+genres:
+  - "Action"
+years:
+  - "2025"
 ---
-

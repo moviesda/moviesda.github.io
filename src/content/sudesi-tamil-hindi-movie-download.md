@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:05:22
 updated_at: 2025-03-22 06:05:22
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "Jeppi"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2005"
 ---
-

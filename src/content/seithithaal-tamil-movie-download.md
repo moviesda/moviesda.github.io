@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:31:09
 updated_at: 2025-04-10 19:31:09
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Panch Barath"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2021"
 ---
-

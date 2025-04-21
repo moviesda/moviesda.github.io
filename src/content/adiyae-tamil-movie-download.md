@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:50
 updated_at: 2025-04-18 19:09:50
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Vignesh Karthick"
+genres:
+  - "Comedy"
+  - "Romance"
+  - "Sci-Fi"
+years:
+  - "2023"
 ---
-

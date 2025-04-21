@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:33
 updated_at: 2025-03-21 03:12:33
+categories:
+  - "Tamil Movies"
+directors:
+  - "V. Shekhar"
+genres:
+  - "Comedy"
+years:
+  - "1997"
 ---
-

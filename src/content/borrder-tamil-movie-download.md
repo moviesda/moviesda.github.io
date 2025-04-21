@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:12:37
 updated_at: 2025-04-18 19:12:37
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Arivazhagan Venkatachalam"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

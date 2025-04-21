@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:07:40
 updated_at: 2025-04-19 06:07:40
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Peppin George Jayaseelan"
+genres:
+  - "Crime"
+  - "Horror"
+  - "Thriller"
+years:
+  - "2025"
 ---
-

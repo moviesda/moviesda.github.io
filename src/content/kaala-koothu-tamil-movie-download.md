@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:58:18
 updated_at: 2025-04-10 18:58:18
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "M. Nagarajan"
+genres:
+  - "Action"
+years:
+  - "2018"
 ---
-

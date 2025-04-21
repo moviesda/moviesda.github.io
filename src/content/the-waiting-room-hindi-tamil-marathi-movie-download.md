@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:16:29
 updated_at: 2025-03-22 08:16:29
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Maneej Premnath"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Mystery"
+years:
+  - "2010"
 ---
-

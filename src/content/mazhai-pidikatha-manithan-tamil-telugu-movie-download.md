@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:38:32
 updated_at: 2025-04-19 05:38:32
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Vijay Milton"
+genres:
+  - "Action"
+years:
+  - "2024"
 ---
-

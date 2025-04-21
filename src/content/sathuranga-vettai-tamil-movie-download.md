@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:49:54
 updated_at: 2025-04-01 10:49:54
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "H. Vinoth"
+genres:
+  - "Crime"
+  - "Thriller"
+years:
+  - "2014"
 ---
-

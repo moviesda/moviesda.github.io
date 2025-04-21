@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:16:55
 updated_at: 2025-03-20 19:16:55
+categories:
+  - "Tamil Movies"
+directors:
+  - "Suresh Krishna"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "1994"
 ---
-

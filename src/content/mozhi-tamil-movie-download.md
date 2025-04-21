@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:21:58
 updated_at: 2025-03-22 06:21:58
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "Radha Mohan"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2007"
 ---
-

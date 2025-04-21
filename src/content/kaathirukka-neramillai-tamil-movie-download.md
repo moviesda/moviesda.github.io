@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:13:16
 updated_at: 2025-03-20 19:13:16
+categories:
+  - "Tamil Movies"
+directors:
+  - "Gladius Kulothungan"
+genres:
+  - "Drama"
+years:
+  - "1993"
 ---
-

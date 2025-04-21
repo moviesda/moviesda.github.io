@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:11:01
 updated_at: 2025-04-01 11:11:01
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Rosshan Andrrews"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2015"
 ---
-

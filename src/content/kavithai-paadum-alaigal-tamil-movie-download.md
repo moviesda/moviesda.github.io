@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:41:46
 updated_at: 2025-03-20 18:41:46
+categories:
+  - "Tamil Movies"
+directors:
+  - "T.K. Bose"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "1990"
 ---
-

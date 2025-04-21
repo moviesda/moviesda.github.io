@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:04:27
 updated_at: 2025-04-19 05:04:27
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Saravana Sakthi"
+  - "Angaiyarkannan"
+genres:
+  - "Comedy"
+years:
+  - "2024"
 ---
-

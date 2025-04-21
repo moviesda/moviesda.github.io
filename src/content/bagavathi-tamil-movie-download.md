@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:48:14
 updated_at: 2025-03-21 16:48:14
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "A. Venkatesh"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2002"
 ---
-

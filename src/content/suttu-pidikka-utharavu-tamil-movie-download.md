@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:11:48
 updated_at: 2025-04-10 19:11:48
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Ramprakash Rayappa"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2019"
 ---
-

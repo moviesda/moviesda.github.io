@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:20:45
 updated_at: 2025-04-10 19:20:45
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Bala"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2020"
 ---
-

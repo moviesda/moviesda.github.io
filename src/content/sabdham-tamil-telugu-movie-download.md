@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:07:31
 updated_at: 2025-04-19 06:07:31
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Arivazhagan Venkatachalam"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

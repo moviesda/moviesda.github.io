@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:12:49
 updated_at: 2025-03-20 19:12:49
+categories:
+  - "Tamil Movies"
+directors:
+  - "Balu Mahendra"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "1993"
 ---
-

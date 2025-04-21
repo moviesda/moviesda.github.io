@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:11:14
 updated_at: 2025-04-01 11:11:14
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Sridhar Rangayan"
+genres:
+  - "Documentary"
+  - "Crime"
+  - "History"
+years:
+  - "2015"
 ---
-

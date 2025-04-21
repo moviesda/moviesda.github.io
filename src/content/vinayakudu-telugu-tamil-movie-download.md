@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:31:27
 updated_at: 2025-03-22 07:31:27
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "Sai Kiran Adivi"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2008"
 ---
-

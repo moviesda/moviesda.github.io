@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:31:14
 updated_at: 2025-03-22 09:31:14
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Balaji Mohan"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2012"
 ---
-

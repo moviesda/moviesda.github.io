@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:12:42
 updated_at: 2025-03-20 19:12:42
+categories:
+  - "Tamil Movies"
+directors:
+  - "R.V. Udhaya Kumar"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "1993"
 ---
-

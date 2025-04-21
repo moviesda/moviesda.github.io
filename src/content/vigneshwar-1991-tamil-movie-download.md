@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:47:33
 updated_at: 2025-03-20 18:47:33
+categories:
+  - "Tamil Movies"
+directors:
+  - "R. Raghu"
+genres:
+  - "Crime"
+years:
+  - "1991"
 ---
-

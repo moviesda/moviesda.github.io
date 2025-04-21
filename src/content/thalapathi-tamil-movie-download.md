@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:44:09
 updated_at: 2025-03-20 18:44:09
+categories:
+  - "Tamil Movies"
+directors:
+  - "Mani Ratnam"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "1991"
 ---
-

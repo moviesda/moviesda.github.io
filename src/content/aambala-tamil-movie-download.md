@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:17
 updated_at: 2025-04-01 11:09:17
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Sundar C."
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2015"
 ---
-

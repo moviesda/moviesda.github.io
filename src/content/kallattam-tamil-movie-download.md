@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:26:47
 updated_at: 2025-04-01 11:26:47
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "G. Ramesh"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2016"
 ---
-

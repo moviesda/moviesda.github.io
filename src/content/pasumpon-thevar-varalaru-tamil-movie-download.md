@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:32:22
 updated_at: 2025-03-22 07:32:22
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "M.P. Abraham Lincoln"
+genres:
+  - "Drama"
+years:
+  - "2008"
 ---
-

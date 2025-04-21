@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:22:23
 updated_at: 2025-04-10 19:22:23
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Saravanan .K.S."
+genres:
+  - "Drama"
+years:
+  - "2020"
 ---
-

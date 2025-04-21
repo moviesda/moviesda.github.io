@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:47:31
 updated_at: 2025-03-20 18:47:31
+categories:
+  - "Tamil Movies"
+directors:
+  - "M. Thyagarajan"
+genres:
+  - "Drama"
+years:
+  - "1991"
 ---
-

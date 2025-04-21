@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:51:43
 updated_at: 2025-04-01 10:51:43
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Stalin Ramalingam"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2014"
 ---
-

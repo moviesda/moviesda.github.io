@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:50:59
 updated_at: 2025-04-10 19:50:59
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Anand Chandra"
+  - "Ram Gopal Varma"
+genres:
+  - "Crime"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

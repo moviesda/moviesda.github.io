@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:34:32
 updated_at: 2025-04-10 19:34:32
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Kavin"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2021"
 ---
-

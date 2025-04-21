@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:53:28
 updated_at: 2025-03-21 16:53:28
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "K.P. Jagan"
+genres:
+  - "Action"
+  - "Drama"
+  - "Romance"
+years:
+  - "2003"
 ---
-

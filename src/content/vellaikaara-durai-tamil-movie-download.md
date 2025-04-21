@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:52:17
 updated_at: 2025-04-01 10:52:17
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Ezhil"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2014"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:55:59
 updated_at: 2025-04-18 16:55:59
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Karina J. Duffy"
+genres:
+  - "Documentary"
+years:
+  - "2022"
 ---
-

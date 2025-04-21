@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:10:14
 updated_at: 2025-04-18 19:10:14
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Guru Ramaanujam"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

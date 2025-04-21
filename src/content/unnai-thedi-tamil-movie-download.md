@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:13
 updated_at: 2025-03-21 16:32:13
+categories:
+  - "Tamil Movies"
+directors:
+  - "Sundar C."
+genres:
+  - "Romance"
+years:
+  - "1999"
 ---
-

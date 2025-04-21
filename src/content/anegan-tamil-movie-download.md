@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:36
 updated_at: 2025-04-01 11:09:36
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "K.V. Anand"
+genres:
+  - "Action"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2015"
 ---
-

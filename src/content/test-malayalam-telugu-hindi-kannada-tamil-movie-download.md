@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:08:20
 updated_at: 2025-04-19 06:08:20
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "S. Sashikanth"
+genres:
+  - "Sport"
+years:
+  - "2024"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:08:19
 updated_at: 2025-04-08 16:08:19
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Sreenivasan"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2017"
 ---
-

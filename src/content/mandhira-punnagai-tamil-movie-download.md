@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:16:25
 updated_at: 2025-03-22 08:16:25
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Karu Pazhaniappan"
+genres:
+  - "Thriller"
+years:
+  - "2010"
 ---
-

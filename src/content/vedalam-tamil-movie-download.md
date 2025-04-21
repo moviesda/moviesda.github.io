@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:13:07
 updated_at: 2025-04-01 11:13:07
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Siva"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2015"
 ---
-

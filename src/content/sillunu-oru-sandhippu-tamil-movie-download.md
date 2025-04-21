@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:38:54
 updated_at: 2025-03-22 09:38:54
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Ravi Lallin"
+genres:
+  - "Romance"
+years:
+  - "2013"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:13:12
 updated_at: 2025-04-01 11:13:12
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Rahul R. Khagwal"
+genres:
+  - "Mystery"
+years:
+  - "2015"
 ---
-

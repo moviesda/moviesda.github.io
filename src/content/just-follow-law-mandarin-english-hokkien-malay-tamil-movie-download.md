@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:22:24
 updated_at: 2025-03-22 06:22:24
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "Jack Neo"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Fantasy"
+years:
+  - "2007"
 ---
-

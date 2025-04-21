@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:34
 updated_at: 2025-04-18 19:08:34
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Subhash Lalitha Subrahmanian"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2023"
 ---
-

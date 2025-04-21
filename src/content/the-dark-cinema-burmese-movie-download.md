@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:11:04
 updated_at: 2025-04-10 19:11:04
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Pyae Zaw Phyo"
+genres:
+  - "Horror"
+years:
+  - "2019"
 ---
-

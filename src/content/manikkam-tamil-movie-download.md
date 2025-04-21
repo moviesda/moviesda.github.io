@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:22:14
 updated_at: 2025-03-20 19:22:14
+categories:
+  - "Tamil Movies"
+directors:
+  - "Surya Prakash"
+genres:
+  - "N/A"
+years:
+  - "1996"
 ---
-

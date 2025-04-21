@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:06:38
 updated_at: 2025-04-19 06:06:38
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Sundar C."
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2022"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:33:13
 updated_at: 2025-03-22 09:33:13
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "K.V. Anand"
+genres:
+  - "Action"
+  - "Sci-Fi"
+  - "Thriller"
+years:
+  - "2012"
 ---
-

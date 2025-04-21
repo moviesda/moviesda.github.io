@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:10
 updated_at: 2025-04-10 18:59:10
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Kamal Haasan"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2018"
 ---
-

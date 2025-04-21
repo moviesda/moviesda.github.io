@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:49
 updated_at: 2025-04-18 19:09:49
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Amr Murugesh"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2023"
 ---
-

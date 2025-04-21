@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:49
 updated_at: 2025-03-21 16:32:49
+categories:
+  - "Tamil Movies"
+directors:
+  - "V.C. Ramani"
+genres:
+  - "Action"
+years:
+  - "2001"
 ---
-

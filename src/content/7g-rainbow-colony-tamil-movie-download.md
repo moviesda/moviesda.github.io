@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:15:53
 updated_at: 2025-03-22 03:15:53
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "K. Selvaraghavan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2004"
 ---
-

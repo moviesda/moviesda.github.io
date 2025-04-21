@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:06:42
 updated_at: 2025-04-08 16:06:42
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Action"
+years:
+  - "2017"
 ---
-

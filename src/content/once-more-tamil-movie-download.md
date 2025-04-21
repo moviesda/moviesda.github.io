@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:11:59
 updated_at: 2025-03-21 03:11:59
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "1997"
 ---
-

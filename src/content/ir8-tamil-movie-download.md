@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:12:43
 updated_at: 2025-04-10 19:12:43
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "N.P. Ismail"
+genres:
+  - "Drama"
+years:
+  - "2019"
 ---
-

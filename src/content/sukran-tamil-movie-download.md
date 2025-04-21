@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:29:13
 updated_at: 2025-03-22 04:29:13
+categories:
+  - "Tamil 2005 Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2005"
 ---
-

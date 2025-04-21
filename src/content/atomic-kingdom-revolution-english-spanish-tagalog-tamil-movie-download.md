@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:40:55
 updated_at: 2025-03-22 09:40:55
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "James Peniata"
+genres:
+  - "Action"
+  - "Fantasy"
+years:
+  - "2013"
 ---
-

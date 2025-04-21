@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:06:43
 updated_at: 2025-04-08 16:06:43
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Tha. Muruganatham"
+genres:
+  - "Comedy"
+years:
+  - "2017"
 ---
-

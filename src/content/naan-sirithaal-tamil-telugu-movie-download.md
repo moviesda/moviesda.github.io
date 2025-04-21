@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:50
 updated_at: 2025-04-10 19:18:50
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Raana"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2020"
 ---
-

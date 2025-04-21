@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:05:33
 updated_at: 2025-04-19 05:05:33
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Anand Ravichandran"
+genres:
+  - "Drama"
+  - "Family"
+  - "Romance"
+years:
+  - "2024"
 ---
-

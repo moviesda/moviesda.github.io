@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:32:16
 updated_at: 2025-03-22 07:32:16
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "A. Venkatesh"
+genres:
+  - "Action"
+years:
+  - "2008"
 ---
-

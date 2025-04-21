@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:50:53
 updated_at: 2025-04-01 10:50:53
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Desika"
+genres:
+  - "N/A"
+years:
+  - "2014"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:21:39
 updated_at: 2025-03-21 16:21:39
+categories:
+  - "Tamil Movies"
+directors:
+  - "S. Shankar"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "1998"
 ---
-

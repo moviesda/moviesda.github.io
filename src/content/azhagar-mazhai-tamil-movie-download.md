@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:07:00
 updated_at: 2025-03-22 08:07:00
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "S.P. Rajkumar"
+genres:
+  - "N/A"
+years:
+  - "2009"
 ---
-

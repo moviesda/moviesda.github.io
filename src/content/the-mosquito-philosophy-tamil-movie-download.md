@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:08:34
 updated_at: 2025-04-10 19:08:34
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Jayaprakash Radhakrishnan"
+  - "Ravi Kathiresan"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2019"
 ---
-

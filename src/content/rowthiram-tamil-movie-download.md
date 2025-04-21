@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:18
 updated_at: 2025-03-22 08:38:18
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Gokul"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2011"
 ---
-

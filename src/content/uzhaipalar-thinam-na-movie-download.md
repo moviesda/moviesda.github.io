@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:39:16
 updated_at: 2025-04-19 05:39:16
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Santhosh Nambirajan"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2024"
 ---
-

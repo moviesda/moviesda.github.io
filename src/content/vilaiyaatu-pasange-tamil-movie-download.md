@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:55
 updated_at: 2025-03-22 08:38:55
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Vimala Perumal"
+genres:
+  - "Comedy"
+years:
+  - "2011"
 ---
-

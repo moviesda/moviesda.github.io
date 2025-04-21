@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:27
 updated_at: 2025-04-10 19:52:27
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Nama Filmcollective"
+genres:
+  - "Documentary"
+years:
+  - "2022"
 ---
-

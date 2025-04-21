@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:13:09
 updated_at: 2025-04-18 17:13:09
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Dayal Padmanabhan"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

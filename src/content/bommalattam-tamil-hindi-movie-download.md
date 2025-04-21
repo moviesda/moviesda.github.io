@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:31:10
 updated_at: 2025-03-22 07:31:10
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "Bharathiraja"
+genres:
+  - "Drama"
+years:
+  - "2008"
 ---
-

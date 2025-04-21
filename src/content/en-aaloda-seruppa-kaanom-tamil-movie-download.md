@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:07:58
 updated_at: 2025-04-08 16:07:58
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Jagan"
+  - "K.P. Jagan"
+genres:
+  - "Comedy"
+years:
+  - "2017"
 ---
-

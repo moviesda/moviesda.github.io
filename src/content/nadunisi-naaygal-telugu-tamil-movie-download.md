@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:37:48
 updated_at: 2025-03-22 08:37:48
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Gautham Vasudev Menon"
+genres:
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2011"
 ---
-

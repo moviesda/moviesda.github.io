@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:33:29
 updated_at: 2025-03-21 16:33:29
+categories:
+  - "Tamil Movies"
+directors:
+  - "R.K. Selvamani"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "1999"
 ---
-

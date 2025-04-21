@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:21:53
 updated_at: 2025-03-21 16:21:53
+categories:
+  - "Tamil Movies"
+directors:
+  - "Sushma Ahuja"
+genres:
+  - "Drama"
+years:
+  - "1998"
 ---
-

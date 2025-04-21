@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:33
 updated_at: 2025-03-22 08:38:33
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Gaurav Narayanan"
+genres:
+  - "Comedy"
+  - "Family"
+  - "Thriller"
+years:
+  - "2011"
 ---
-

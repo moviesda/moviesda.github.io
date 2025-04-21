@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:32:40
 updated_at: 2025-04-10 19:32:40
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Karthik Yogi"
+genres:
+  - "Comedy"
+  - "Romance"
+  - "Sci-Fi"
+years:
+  - "2021"
 ---
-

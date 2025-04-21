@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:44:36
 updated_at: 2025-03-20 18:44:36
+categories:
+  - "Tamil Movies"
+directors:
+  - "Shoba Chandrasekar"
+genres:
+  - "Romance"
+years:
+  - "1991"
 ---
-

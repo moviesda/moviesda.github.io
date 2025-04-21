@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:34:29
 updated_at: 2025-03-22 10:34:29
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Kumar Taurani"
+genres:
+  - "Thriller"
+years:
+  - "2014"
 ---
-

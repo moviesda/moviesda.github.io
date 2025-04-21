@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:35:45
 updated_at: 2025-03-21 16:35:45
+categories:
+  - "Tamil Movies"
+directors:
+  - "Cheran"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2000"
 ---
-

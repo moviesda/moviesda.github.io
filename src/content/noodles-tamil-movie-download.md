@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:10:15
 updated_at: 2025-04-18 19:10:15
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Madhan Kumar Dhakshinamoorthy"
+genres:
+  - "Drama"
+years:
+  - "2023"
 ---
-

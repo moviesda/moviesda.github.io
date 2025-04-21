@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:51:47
 updated_at: 2025-04-01 10:51:47
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Haresh Narayan"
+  - "K. Hari Shankar"
+genres:
+  - "Adventure"
+  - "Horror"
+  - "Thriller"
+years:
+  - "2014"
 ---
-

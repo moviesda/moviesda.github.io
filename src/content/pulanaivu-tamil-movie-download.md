@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:13:57
 updated_at: 2025-04-10 19:13:57
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Shalini Balasundaram"
+  - "Sathish Natarajan"
+genres:
+  - "Crime"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2019"
 ---
-

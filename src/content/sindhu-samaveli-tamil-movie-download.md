@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:44
 updated_at: 2025-03-22 08:15:44
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Samy"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2010"
 ---
-

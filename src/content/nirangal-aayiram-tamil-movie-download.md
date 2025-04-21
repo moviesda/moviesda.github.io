@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:53
 updated_at: 2025-04-18 19:08:53
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Rithik Titus"
+genres:
+  - "Thriller"
+years:
+  - "2023"
 ---
-

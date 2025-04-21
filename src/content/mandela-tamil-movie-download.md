@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:31:37
 updated_at: 2025-04-10 19:31:37
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Madonne Ashwin"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2021"
 ---
-

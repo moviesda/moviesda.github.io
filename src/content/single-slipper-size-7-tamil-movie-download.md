@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:13:16
 updated_at: 2025-04-10 19:13:16
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Parthiban Radhakrishnan"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2019"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:48
 updated_at: 2025-03-22 08:38:48
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "R.N.R. Manohar"
+genres:
+  - "Action"
+  - "Crime"
+years:
+  - "2011"
 ---
-

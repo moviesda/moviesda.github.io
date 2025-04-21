@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:42:15
 updated_at: 2025-03-21 16:42:15
+categories:
+  - "Tamil 2001 Movies"
+directors:
+  - "Saravana Subaiya"
+genres:
+  - "Action"
+  - "Drama"
+  - "Mystery"
+years:
+  - "2001"
 ---
-

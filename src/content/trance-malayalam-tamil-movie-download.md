@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:54
 updated_at: 2025-04-10 19:18:54
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Anwar Rasheed"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2020"
 ---
-

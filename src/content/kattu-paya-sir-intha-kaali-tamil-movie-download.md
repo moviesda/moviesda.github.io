@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:05
 updated_at: 2025-04-10 18:59:05
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Youreka"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2018"
 ---
-

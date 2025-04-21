@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:40:56
 updated_at: 2025-03-22 09:40:56
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Hari"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2013"
 ---
-

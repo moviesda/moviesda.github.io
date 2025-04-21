@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:05:48
 updated_at: 2025-03-22 08:05:48
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Vikram K. Kumar"
+genres:
+  - "Horror"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2009"
 ---
-

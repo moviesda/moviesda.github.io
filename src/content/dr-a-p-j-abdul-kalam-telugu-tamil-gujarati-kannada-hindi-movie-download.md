@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:09:09
 updated_at: 2025-04-19 06:09:09
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Prince Jagadeesh Daneti"
+genres:
+  - "Biography"
+  - "Drama"
+years:
+  - "2025"
 ---
-

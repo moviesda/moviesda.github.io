@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:41:42
 updated_at: 2025-03-20 18:41:42
+categories:
+  - "Tamil Movies"
+directors:
+  - "K. Rajeshwar"
+genres:
+  - "Romance"
+years:
+  - "1990"
 ---
-

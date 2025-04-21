@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:22:08
 updated_at: 2025-04-10 19:22:08
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Rathesh Kowsalya"
+genres:
+  - "Drama"
+years:
+  - "2020"
 ---
-

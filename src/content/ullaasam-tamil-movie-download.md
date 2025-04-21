@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:07
 updated_at: 2025-03-21 03:12:07
+categories:
+  - "Tamil Movies"
+directors:
+  - "N/A"
+genres:
+  - "Romance"
+years:
+  - "1997"
 ---
-

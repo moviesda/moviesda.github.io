@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:34:08
 updated_at: 2025-03-22 04:34:08
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Romance"
+  - "Thriller"
+years:
+  - "2006"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:54:15
 updated_at: 2025-04-10 19:54:15
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "S.K. Vettri Selvan"
+genres:
+  - "Action"
+years:
+  - "2022"
 ---
-

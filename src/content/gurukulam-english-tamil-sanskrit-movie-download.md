@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:33:45
 updated_at: 2025-03-22 10:33:45
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Neil Dalal"
+  - "Jillian Elizabeth"
+genres:
+  - "Documentary"
+  - "Drama"
+years:
+  - "2014"
 ---
-

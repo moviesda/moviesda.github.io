@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:12:18
 updated_at: 2025-04-18 19:12:18
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Aran V"
+genres:
+  - "Comedy"
+years:
+  - "2023"
 ---
-

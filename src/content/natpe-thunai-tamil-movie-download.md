@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:10:23
 updated_at: 2025-04-10 19:10:23
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Parthiban Desingu"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Sport"
+years:
+  - "2019"
 ---
-

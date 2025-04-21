@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:54:12
 updated_at: 2025-04-10 19:54:12
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Kamalakannan"
+  - "Kamalakannan"
+genres:
+  - "Drama"
+years:
+  - "2022"
 ---
-

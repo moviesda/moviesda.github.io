@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:50
 updated_at: 2025-03-20 19:19:50
+categories:
+  - "Tamil Movies"
+directors:
+  - "Sundar C."
+genres:
+  - "Comedy"
+years:
+  - "1995"
 ---
-

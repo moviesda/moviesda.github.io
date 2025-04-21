@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:13:50
 updated_at: 2025-04-01 11:13:50
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Shami Thirumalai"
+genres:
+  - "Drama"
+years:
+  - "2015"
 ---
-

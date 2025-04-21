@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:45:59
 updated_at: 2025-04-19 05:45:59
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Kittu"
+genres:
+  - "N/A"
+years:
+  - "2024"
 ---
-

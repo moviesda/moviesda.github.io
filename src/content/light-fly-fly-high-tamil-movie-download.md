@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:42:10
 updated_at: 2025-03-22 09:42:10
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Beathe Hofseth"
+  - "Susann Østigaard"
+genres:
+  - "Documentary"
+  - "Drama"
+  - "Sport"
+years:
+  - "2013"
 ---
-

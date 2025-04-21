@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:23:37
 updated_at: 2025-03-22 06:23:37
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "T. Nagarajan"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2007"
 ---
-

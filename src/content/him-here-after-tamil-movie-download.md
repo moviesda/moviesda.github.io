@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:07
 updated_at: 2025-03-22 09:32:07
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Asoka Handagama"
+genres:
+  - "Drama"
+years:
+  - "2012"
 ---
-

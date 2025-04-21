@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:18:00
 updated_at: 2025-03-20 19:18:00
+categories:
+  - "Tamil Movies"
+directors:
+  - "R.K. Selvamani"
+genres:
+  - "N/A"
+years:
+  - "1994"
 ---
-

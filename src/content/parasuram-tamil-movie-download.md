@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:54:29
 updated_at: 2025-03-21 16:54:29
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Arjun Sarja"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2003"
 ---
-

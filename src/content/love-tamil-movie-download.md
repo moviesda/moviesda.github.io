@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:30
 updated_at: 2025-04-18 19:09:30
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "R.P. Bala"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

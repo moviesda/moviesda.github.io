@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:51:37
 updated_at: 2025-04-01 10:51:37
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Shakti Soundar Rajan"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Thriller"
+years:
+  - "2014"
 ---
-

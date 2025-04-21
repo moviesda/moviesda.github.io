@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:33
 updated_at: 2025-03-22 09:32:33
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Mohan Sharma"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2014"
 ---
-

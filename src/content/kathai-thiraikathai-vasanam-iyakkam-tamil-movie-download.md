@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:50:12
 updated_at: 2025-04-01 10:50:12
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Parthiban Radhakrishnan"
+genres:
+  - "Drama"
+years:
+  - "2014"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:19
 updated_at: 2025-04-10 18:59:19
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Shalini Balasundaram"
+genres:
+  - "Comedy"
+years:
+  - "2018"
 ---
-

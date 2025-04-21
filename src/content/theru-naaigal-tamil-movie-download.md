@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:05:59
 updated_at: 2025-04-08 16:05:59
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "S.Hari Uthra"
+genres:
+  - "Family"
+years:
+  - "2017"
 ---
-

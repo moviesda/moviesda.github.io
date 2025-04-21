@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:33:14
 updated_at: 2025-03-21 16:33:14
+categories:
+  - "Tamil Movies"
+directors:
+  - "Mohan"
+genres:
+  - "Romance"
+years:
+  - "1999"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:43
 updated_at: 2025-04-18 19:08:43
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "V.Z. Dhorai"
+  - "Kowshick Saravanan"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2023"
 ---
-

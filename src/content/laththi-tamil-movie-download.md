@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:57:06
 updated_at: 2025-04-18 16:57:06
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "A. Vinoth Kumar"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2022"
 ---
-

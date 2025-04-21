@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:14:12
 updated_at: 2025-04-18 17:14:12
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Kakarla Srinivasu"
+genres:
+  - "Drama"
+years:
+  - "2023"
 ---
-

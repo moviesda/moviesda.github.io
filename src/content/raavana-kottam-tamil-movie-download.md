@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:14:36
 updated_at: 2025-04-18 17:14:36
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Vikram Sugumaran"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2023"
 ---
-

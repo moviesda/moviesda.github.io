@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:26:25
 updated_at: 2025-04-01 11:26:25
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Prasath Murugesan"
+genres:
+  - "Action"
+years:
+  - "2016"
 ---
-

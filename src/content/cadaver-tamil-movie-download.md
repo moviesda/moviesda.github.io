@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:49:34
 updated_at: 2025-04-18 16:49:34
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Anoop Panicker"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Mystery"
+years:
+  - "2022"
 ---
-

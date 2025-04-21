@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:48
 updated_at: 2025-04-10 19:18:48
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Sheela Pravina"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2020"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:06:09
 updated_at: 2025-03-22 08:06:09
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "A.R. Gandhi Krishna"
+genres:
+  - "Romance"
+years:
+  - "2009"
 ---
-

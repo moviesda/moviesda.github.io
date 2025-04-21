@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:39:28
 updated_at: 2025-03-22 09:39:28
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Sandosh Kesavan"
+genres:
+  - "N/A"
+years:
+  - "2013"
 ---
-

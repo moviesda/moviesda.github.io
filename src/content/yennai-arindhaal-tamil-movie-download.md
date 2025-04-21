@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:32
 updated_at: 2025-04-01 11:09:32
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Gautham Vasudev Menon"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2015"
 ---
-

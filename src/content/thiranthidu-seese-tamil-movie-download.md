@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:11:09
 updated_at: 2025-04-01 11:11:09
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "M. Nimesh Varshan"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2015"
 ---
-

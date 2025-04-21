@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:31:17
 updated_at: 2025-03-22 09:31:17
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Haresh Narayan"
+  - "K. Hari Shankar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Sci-Fi"
+years:
+  - "2012"
 ---
-

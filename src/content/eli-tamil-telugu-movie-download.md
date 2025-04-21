@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:11:23
 updated_at: 2025-04-01 11:11:23
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Yuvaraj Dhayalan"
+genres:
+  - "Comedy"
+years:
+  - "2015"
 ---
-

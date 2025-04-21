@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:20:50
 updated_at: 2025-03-20 19:20:50
+categories:
+  - "Tamil Movies"
+directors:
+  - "S. Shankar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "1996"
 ---
-

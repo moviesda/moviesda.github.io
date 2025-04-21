@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:26:05
 updated_at: 2025-04-01 11:26:05
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Kumaravelan"
+genres:
+  - "Action"
+  - "Drama"
+  - "Romance"
+years:
+  - "2016"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:51:32
 updated_at: 2025-04-01 10:51:32
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Ilayadevan"
+genres:
+  - "Drama"
+years:
+  - "2014"
 ---
-

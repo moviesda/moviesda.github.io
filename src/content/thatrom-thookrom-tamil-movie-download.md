@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:21:19
 updated_at: 2025-04-10 19:21:19
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Arul Suriakannu"
+genres:
+  - "Action"
+years:
+  - "2020"
 ---
-

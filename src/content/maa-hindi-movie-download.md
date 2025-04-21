@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:09:01
 updated_at: 2025-04-19 06:09:01
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Vishal Furia"
+genres:
+  - "Horror"
+years:
+  - "2025"
 ---
-

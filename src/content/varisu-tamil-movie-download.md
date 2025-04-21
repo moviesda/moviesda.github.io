@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:12:07
 updated_at: 2025-04-18 17:12:07
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Vamshi Paidipally"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2023"
 ---
-

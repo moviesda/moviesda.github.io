@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:22
 updated_at: 2025-03-21 16:32:22
+categories:
+  - "Tamil Movies"
+directors:
+  - "Thesingu Rajendar"
+genres:
+  - "Musical"
+  - "Romance"
+years:
+  - "1999"
 ---
-

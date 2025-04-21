@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:05:47
 updated_at: 2025-03-22 06:05:47
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "Selva"
+genres:
+  - "Romance"
+years:
+  - "2006"
 ---
-

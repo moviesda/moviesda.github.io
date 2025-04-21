@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:23:53
 updated_at: 2025-04-01 11:23:53
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "V.C. Vadivudaiyan"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2016"
 ---
-

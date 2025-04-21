@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:00:35
 updated_at: 2025-04-10 19:00:35
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Gandhi Manivasagam"
+  - "Swami Rajalingam"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2018"
 ---
-

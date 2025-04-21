@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:45:23
 updated_at: 2025-03-20 18:45:23
+categories:
+  - "Tamil Movies"
+directors:
+  - "Ravichandran"
+genres:
+  - "Action"
+years:
+  - "1991"
 ---
-

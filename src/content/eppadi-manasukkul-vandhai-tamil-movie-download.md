@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:47
 updated_at: 2025-03-22 09:32:47
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "P.V. Prasad"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2012"
 ---
-

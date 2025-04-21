@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:34:08
 updated_at: 2025-03-22 09:34:08
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Igore"
+genres:
+  - "Thriller"
+years:
+  - "2012"
 ---
-

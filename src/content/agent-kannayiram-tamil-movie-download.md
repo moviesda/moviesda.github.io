@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:56:21
 updated_at: 2025-04-18 16:56:21
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Manoj Beedha"
+genres:
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

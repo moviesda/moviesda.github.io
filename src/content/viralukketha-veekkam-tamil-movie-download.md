@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:37
 updated_at: 2025-03-21 16:32:37
+categories:
+  - "Tamil Movies"
+directors:
+  - "V. Shekhar"
+genres:
+  - "Comedy"
+years:
+  - "1999"
 ---
-

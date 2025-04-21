@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:06:03
 updated_at: 2025-03-22 06:06:03
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "S.B. Khanthan"
+genres:
+  - "Comedy"
+years:
+  - "2006"
 ---
-

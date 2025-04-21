@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:09
 updated_at: 2025-04-08 16:04:09
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "N.P. Ismail"
+genres:
+  - "N/A"
+years:
+  - "2017"
 ---
-

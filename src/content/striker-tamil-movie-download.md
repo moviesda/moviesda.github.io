@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:10:20
 updated_at: 2025-04-18 19:10:20
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "SA Prabu"
+  - "Naaganathan"
+genres:
+  - "N/A"
+years:
+  - "2023"
 ---
-

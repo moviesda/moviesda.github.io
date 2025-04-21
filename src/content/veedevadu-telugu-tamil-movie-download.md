@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:06:50
 updated_at: 2025-04-08 16:06:50
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Tatineni Satya"
+genres:
+  - "Thriller"
+years:
+  - "2017"
 ---
-

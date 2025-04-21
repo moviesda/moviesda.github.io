@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:04
 updated_at: 2025-04-10 19:51:04
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Varada Raj"
+genres:
+  - "Crime"
+years:
+  - "2022"
 ---
-

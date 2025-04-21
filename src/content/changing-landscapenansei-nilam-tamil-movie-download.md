@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:49:59
 updated_at: 2025-04-18 16:49:59
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Pravin Selvam"
+genres:
+  - "Documentary"
+years:
+  - "2022"
 ---
-

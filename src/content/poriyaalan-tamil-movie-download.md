@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:50:32
 updated_at: 2025-04-01 10:50:32
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Thanukumar"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2014"
 ---
-

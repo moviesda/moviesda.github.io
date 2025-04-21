@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:36:19
 updated_at: 2025-03-21 16:36:19
+categories:
+  - "Tamil Movies"
+directors:
+  - "Manobala"
+genres:
+  - "Drama"
+years:
+  - "2000"
 ---
-

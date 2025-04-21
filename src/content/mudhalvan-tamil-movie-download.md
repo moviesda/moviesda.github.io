@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:18
 updated_at: 2025-03-21 16:32:18
+categories:
+  - "Tamil Movies"
+directors:
+  - "S. Shankar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "1999"
 ---
-

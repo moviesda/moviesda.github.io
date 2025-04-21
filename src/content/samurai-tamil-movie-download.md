@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:48:34
 updated_at: 2025-03-21 16:48:34
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Balaji Sakthivel"
+genres:
+  - "Action"
+  - "Drama"
+  - "Musical"
+years:
+  - "2002"
 ---
-

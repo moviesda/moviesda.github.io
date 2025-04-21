@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:45
 updated_at: 2025-04-10 18:59:45
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Azhagu Raja"
+genres:
+  - "Drama"
+years:
+  - "2018"
 ---
-

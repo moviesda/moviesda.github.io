@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:19:02
 updated_at: 2025-04-10 19:19:02
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Jegan Rajshekar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2020"
 ---
-

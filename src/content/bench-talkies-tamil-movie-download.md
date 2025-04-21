@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:58
 updated_at: 2025-04-01 11:09:58
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Gopakumar"
+  - "Anil Krish"
+  - "Rathna Kumar"
+genres:
+  - "Drama"
+years:
+  - "2015"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:28:10
 updated_at: 2025-04-01 11:28:10
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Sairam Vishwa"
+genres:
+  - "Drama"
+  - "Music"
+  - "Romance"
+years:
+  - "2016"
 ---
-

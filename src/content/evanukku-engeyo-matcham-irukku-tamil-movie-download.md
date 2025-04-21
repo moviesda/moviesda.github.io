@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:00:49
 updated_at: 2025-04-10 19:00:49
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "A.R. Mukesh"
+genres:
+  - "Comedy"
+years:
+  - "2018"
 ---
-

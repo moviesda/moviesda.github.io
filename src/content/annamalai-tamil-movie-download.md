@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:56:45
 updated_at: 2025-03-20 18:56:45
+categories:
+  - "Tamil Movies"
+directors:
+  - "Suresh Krishna"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "1992"
 ---
-

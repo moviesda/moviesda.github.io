@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:38:53
 updated_at: 2025-04-19 05:38:53
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Abhilash G. Devan"
+genres:
+  - "Drama"
+years:
+  - "2024"
 ---
-

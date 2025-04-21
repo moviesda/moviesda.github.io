@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:11:59
 updated_at: 2025-04-01 11:11:59
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "R.K. Parasuram"
+genres:
+  - "Drama"
+years:
+  - "2015"
 ---
-

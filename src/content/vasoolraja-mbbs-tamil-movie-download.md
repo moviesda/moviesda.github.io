@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:15:59
 updated_at: 2025-03-22 03:15:59
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Sarann"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2004"
 ---
-

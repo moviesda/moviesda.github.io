@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:33:45
 updated_at: 2025-03-21 16:33:45
+categories:
+  - "Tamil Movies"
+directors:
+  - "Rasu Madhuravan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "1999"
 ---
-

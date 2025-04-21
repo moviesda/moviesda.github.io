@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:22:09
 updated_at: 2025-04-10 19:22:09
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Raj Gokul Das"
+genres:
+  - "Horror"
+years:
+  - "2020"
 ---
-

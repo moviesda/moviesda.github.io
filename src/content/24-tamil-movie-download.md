@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:24:56
 updated_at: 2025-04-01 11:24:56
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Vikram K. Kumar"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2016"
 ---
-

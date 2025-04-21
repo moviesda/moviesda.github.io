@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:16
 updated_at: 2025-04-18 19:08:16
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "R. Lawrence"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2023"
 ---
-

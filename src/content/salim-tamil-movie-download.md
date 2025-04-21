@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:50:20
 updated_at: 2025-04-01 10:50:20
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "N.V. Nirmal Kumar"
+genres:
+  - "Action"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2014"
 ---
-

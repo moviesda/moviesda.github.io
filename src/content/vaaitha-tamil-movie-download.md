@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:53:06
 updated_at: 2025-04-10 19:53:06
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Mahivarman.cs"
+genres:
+  - "Crime"
+  - "Drama"
+years:
+  - "2022"
 ---
-

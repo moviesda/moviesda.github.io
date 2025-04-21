@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:03:56
 updated_at: 2025-04-19 05:03:56
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Raako.Yoagandran"
+genres:
+  - "Drama"
+years:
+  - "2024"
 ---
-

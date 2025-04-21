@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:15:39
 updated_at: 2025-03-22 03:15:39
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Luis Ismael"
+genres:
+  - "Adventure"
+  - "Comedy"
+  - "Crime"
+years:
+  - "2004"
 ---
-

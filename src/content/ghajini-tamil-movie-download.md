@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:29:07
 updated_at: 2025-03-22 04:29:07
+categories:
+  - "Tamil 2005 Movies"
+directors:
+  - "A.R. Murugadoss"
+genres:
+  - "Action"
+  - "Drama"
+  - "Mystery"
+years:
+  - "2005"
 ---
-

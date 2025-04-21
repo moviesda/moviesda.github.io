@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:16:04
 updated_at: 2025-03-22 08:16:04
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Ramanarayanan"
+genres:
+  - "Drama"
+  - "Fantasy"
+  - "Thriller"
+years:
+  - "2010"
 ---
-

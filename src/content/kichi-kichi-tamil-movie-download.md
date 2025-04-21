@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:53:41
 updated_at: 2025-04-10 19:53:41
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Anantharajan"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2022"
 ---
-

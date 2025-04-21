@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:40:14
 updated_at: 2025-03-22 04:40:14
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "P. Vasu"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2006"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:59
 updated_at: 2025-03-22 08:15:59
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "S.P. Rajkumar"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2010"
 ---
-

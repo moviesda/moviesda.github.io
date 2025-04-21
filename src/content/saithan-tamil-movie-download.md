@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:27:30
 updated_at: 2025-04-01 11:27:30
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Pradeep Krishnamoorthy"
+genres:
+  - "Action"
+  - "Fantasy"
+  - "Thriller"
+years:
+  - "2016"
 ---
-

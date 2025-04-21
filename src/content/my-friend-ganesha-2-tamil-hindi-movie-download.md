@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:31:33
 updated_at: 2025-03-22 07:31:33
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "Rajiv S. Ruia"
+genres:
+  - "Animation"
+  - "Family"
+  - "Fantasy"
+years:
+  - "2008"
 ---
-

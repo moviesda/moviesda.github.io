@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:31:06
 updated_at: 2025-03-22 09:31:06
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "M. Rathnakumar"
+genres:
+  - "Family"
+years:
+  - "2012"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:14:25
 updated_at: 2025-04-10 19:14:25
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Sri Senthil"
+genres:
+  - "Action"
+  - "Crime"
+  - "Mystery"
+years:
+  - "2019"
 ---
-

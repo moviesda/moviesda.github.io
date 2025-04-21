@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:30:31
 updated_at: 2025-04-10 19:30:31
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Manoj Leonel Jason"
+  - "Shyam Sunder"
+genres:
+  - "Drama"
+years:
+  - "2021"
 ---
-

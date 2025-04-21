@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:16:59
 updated_at: 2025-03-22 03:16:59
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "S.D. Ramesh Selvan"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2004"
 ---
-

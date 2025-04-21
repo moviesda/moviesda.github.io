@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:37:57
 updated_at: 2025-03-22 08:37:57
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Jayendra"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2011"
 ---
-

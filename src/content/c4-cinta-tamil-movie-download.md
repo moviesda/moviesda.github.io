@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:45:34
 updated_at: 2025-04-19 05:45:34
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Karthik Shaamalan"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2024"
 ---
-

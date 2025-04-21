@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:05
 updated_at: 2025-03-21 16:32:05
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "1999"
 ---
-

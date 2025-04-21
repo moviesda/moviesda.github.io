@@ -23,12 +23,19 @@ is_active: 1
 is_comingsoon: 0
 seo_title: "Oru Mugathirai"
 seo_description: "A psychological thriller that involves psychology, the impact of social networks and more."
-seo_keywords: "\"Oru Mugathirai\""
+seo_keywords: '"Oru Mugathirai"'
 seo_image: "https://m.media-amazon.com/images/M/MV5BZjkxZTYwY2MtODY3OC00MzlkLTgyOWEtNGU5M2M4YzVjYTU0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_SX300.jpg"
 screenshots: null
 redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:07
 updated_at: 2025-04-08 16:04:07
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "R. Senthil Nadan"
+genres:
+  - "Drama"
+years:
+  - "2017"
 ---
-

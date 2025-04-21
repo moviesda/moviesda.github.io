@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:50:49
 updated_at: 2025-04-01 10:50:49
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Sundar C."
+  - "Manoj Yerunkar"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Horror"
+years:
+  - "2014"
 ---
-

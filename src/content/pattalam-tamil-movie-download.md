@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:07:22
 updated_at: 2025-03-22 08:07:22
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Rohan Krishna"
+genres:
+  - "Drama"
+years:
+  - "2009"
 ---
-

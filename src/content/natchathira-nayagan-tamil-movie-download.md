@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:58:24
 updated_at: 2025-03-20 18:58:24
+categories:
+  - "Tamil Movies"
+directors:
+  - "Senthilnathan"
+genres:
+  - "Action"
+years:
+  - "1992"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:13:25
 updated_at: 2025-04-01 11:13:25
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Sakthivel Perumalsamy"
+genres:
+  - "Action"
+  - "Fantasy"
+  - "Thriller"
+years:
+  - "2015"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:06:36
 updated_at: 2025-04-19 06:06:36
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Mahesh Madhu"
+genres:
+  - "Comedy"
+  - "Fantasy"
+  - "Thriller"
+years:
+  - "2025"
 ---
-

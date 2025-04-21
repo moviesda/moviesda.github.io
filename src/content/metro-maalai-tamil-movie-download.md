@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:14:11
 updated_at: 2025-04-10 19:14:11
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Haran Kaveri"
+  - "Shobaan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2019"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:56:03
 updated_at: 2025-04-18 16:56:03
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Mani Shankar Iyer"
+genres:
+  - "N/A"
+years:
+  - "2022"
 ---
-

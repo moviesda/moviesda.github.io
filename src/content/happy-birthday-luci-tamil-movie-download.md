@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:45:12
 updated_at: 2025-04-19 05:45:12
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "S.M. Mohammed Azarudeen"
+genres:
+  - "Crime"
+  - "Horror"
+years:
+  - "2024"
 ---
-

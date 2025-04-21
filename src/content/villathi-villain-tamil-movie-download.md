@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:40
 updated_at: 2025-03-20 19:19:40
+categories:
+  - "Tamil Movies"
+directors:
+  - "Sudharshan Lal"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "1995"
 ---
-

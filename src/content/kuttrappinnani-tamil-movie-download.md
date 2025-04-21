@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:13:16
 updated_at: 2025-04-18 17:13:16
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "N.P. Ismail"
+genres:
+  - "N/A"
+years:
+  - "2023"
 ---
-

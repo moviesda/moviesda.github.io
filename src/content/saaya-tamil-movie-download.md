@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:51
 updated_at: 2025-04-08 16:04:51
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "V.S. Palanivel"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

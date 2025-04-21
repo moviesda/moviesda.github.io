@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:45:20
 updated_at: 2025-03-20 18:45:20
+categories:
+  - "Tamil Movies"
+directors:
+  - "Priyadarshan"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "1991"
 ---
-

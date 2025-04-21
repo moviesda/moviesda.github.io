@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:38:26
 updated_at: 2025-04-19 05:38:26
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Nadiin"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

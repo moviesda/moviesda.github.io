@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:40
 updated_at: 2025-04-18 16:50:40
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Ramesh Bharathi"
+genres:
+  - "Drama"
+years:
+  - "2022"
 ---
-

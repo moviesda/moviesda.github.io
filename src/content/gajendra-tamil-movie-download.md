@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:15:47
 updated_at: 2025-03-22 03:15:47
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Suresh Krishna"
+genres:
+  - "Action"
+years:
+  - "2004"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:19
 updated_at: 2025-04-18 16:50:19
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Gautham Vasudev Menon"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2022"
 ---
-

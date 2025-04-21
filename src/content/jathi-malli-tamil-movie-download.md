@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:13:52
 updated_at: 2025-03-20 19:13:52
+categories:
+  - "Tamil Movies"
+directors:
+  - "K. Balachander"
+genres:
+  - "Drama"
+years:
+  - "1993"
 ---
-

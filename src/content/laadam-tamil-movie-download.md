@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:07:26
 updated_at: 2025-03-22 08:07:26
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Prabu Solomon"
+genres:
+  - "Drama"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2009"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 04:29:11
 updated_at: 2025-03-22 04:29:11
+categories:
+  - "Tamil 2005 Movies"
+directors:
+  - "Perarasu"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2005"
 ---
-

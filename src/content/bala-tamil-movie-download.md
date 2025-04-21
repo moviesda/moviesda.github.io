@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:49:44
 updated_at: 2025-03-21 16:49:44
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Deepak"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2002"
 ---
-

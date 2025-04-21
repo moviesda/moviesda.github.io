@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:16:01
 updated_at: 2025-03-22 08:16:01
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Ramnath"
+genres:
+  - "Comedy"
+years:
+  - "2010"
 ---
-

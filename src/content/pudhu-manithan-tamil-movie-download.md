@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:44:24
 updated_at: 2025-03-20 18:44:24
+categories:
+  - "Tamil Movies"
+directors:
+  - "Manivannan"
+genres:
+  - "Drama"
+years:
+  - "1991"
 ---
-

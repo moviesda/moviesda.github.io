@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:49:51
 updated_at: 2025-04-18 16:49:51
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Innasi Pandiyan"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

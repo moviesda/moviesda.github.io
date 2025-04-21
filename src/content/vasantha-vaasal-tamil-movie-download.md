@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:21:19
 updated_at: 2025-03-20 19:21:19
+categories:
+  - "Tamil Movies"
+directors:
+  - "M.R."
+genres:
+  - "Action"
+  - "Romance"
+years:
+  - "1996"
 ---
-

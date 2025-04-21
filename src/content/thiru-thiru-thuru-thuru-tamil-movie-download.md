@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:06:38
 updated_at: 2025-03-22 08:06:38
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "J.S. Nandhini"
+genres:
+  - "Comedy"
+years:
+  - "2009"
 ---
-

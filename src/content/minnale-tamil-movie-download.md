@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:42:06
 updated_at: 2025-03-21 16:42:06
+categories:
+  - "Tamil 2001 Movies"
+directors:
+  - "Gautham Vasudev Menon"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Musical"
+years:
+  - "2001"
 ---
-

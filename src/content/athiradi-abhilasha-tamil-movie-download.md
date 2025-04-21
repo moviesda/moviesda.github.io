@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:14:00
 updated_at: 2025-03-20 19:14:00
+categories:
+  - "Tamil Movies"
+directors:
+  - "Suresh"
+genres:
+  - "N/A"
+years:
+  - "1993"
 ---
-

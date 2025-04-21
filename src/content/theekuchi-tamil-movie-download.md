@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:31:56
 updated_at: 2025-03-22 07:31:56
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "A.L. Raja"
+genres:
+  - "N/A"
+years:
+  - "2008"
 ---
-

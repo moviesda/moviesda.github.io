@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:57:14
 updated_at: 2025-04-18 16:57:14
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "M. Saravanan"
+genres:
+  - "Action"
+years:
+  - "2022"
 ---
-

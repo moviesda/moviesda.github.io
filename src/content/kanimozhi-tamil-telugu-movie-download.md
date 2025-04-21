@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:23:42
 updated_at: 2025-03-22 08:23:42
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Sripathy Rangasamy"
+genres:
+  - "Musical"
+  - "Romance"
+years:
+  - "2010"
 ---
-

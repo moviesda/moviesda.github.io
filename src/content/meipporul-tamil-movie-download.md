@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:07:41
 updated_at: 2025-03-22 08:07:41
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Krish Bala"
+  - "Natty Kumar"
+  - "Narayan Sundararajan"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2009"
 ---
-

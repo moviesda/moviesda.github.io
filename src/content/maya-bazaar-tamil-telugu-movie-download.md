@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:38
 updated_at: 2025-03-20 19:19:38
+categories:
+  - "Tamil Movies"
+directors:
+  - "Dasari Narayana Rao"
+genres:
+  - "Drama"
+  - "Action"
+  - "Romance"
+years:
+  - "1995"
 ---
-

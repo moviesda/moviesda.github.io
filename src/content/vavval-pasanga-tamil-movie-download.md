@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:33:23
 updated_at: 2025-03-22 09:33:23
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Suresh"
+genres:
+  - "Action"
+years:
+  - "2012"
 ---
-

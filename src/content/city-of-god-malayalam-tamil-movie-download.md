@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:05
 updated_at: 2025-03-22 08:38:05
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Lijo Jose Pellissery"
+genres:
+  - "Drama"
+years:
+  - "2011"
 ---
-

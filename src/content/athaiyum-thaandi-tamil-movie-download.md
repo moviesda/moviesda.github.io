@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:19:40
 updated_at: 2025-04-10 19:19:40
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Viknish Lokarag Asokan"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2020"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:12:08
 updated_at: 2025-04-01 11:12:08
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Surya Prakash"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2015"
 ---
-

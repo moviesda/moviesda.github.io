@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:54:14
 updated_at: 2025-03-21 16:54:14
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Jyothi Krishna"
+genres:
+  - "Drama"
+  - "Musical"
+  - "Romance"
+years:
+  - "2003"
 ---
-

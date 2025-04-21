@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:35:10
 updated_at: 2025-03-22 10:35:10
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Srinath"
+genres:
+  - "Comedy"
+years:
+  - "2014"
 ---
-

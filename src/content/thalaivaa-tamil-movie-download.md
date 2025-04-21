@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:41:12
 updated_at: 2025-03-22 09:41:12
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "A.L. Vijay"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2013"
 ---
-

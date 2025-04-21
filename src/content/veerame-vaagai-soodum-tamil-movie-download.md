@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:28
 updated_at: 2025-04-10 19:51:28
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Thu Pa Saravanan"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

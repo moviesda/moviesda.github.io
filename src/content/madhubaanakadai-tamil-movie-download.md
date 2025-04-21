@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:32
 updated_at: 2025-03-22 09:32:32
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Kamalakannan"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Musical"
+years:
+  - "2012"
 ---
-

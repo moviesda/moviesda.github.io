@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:55
 updated_at: 2025-04-18 16:50:55
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Karthik Kumar"
+genres:
+  - "Drama"
+years:
+  - "2022"
 ---
-

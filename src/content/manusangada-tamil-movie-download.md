@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:07:17
 updated_at: 2025-04-08 16:07:17
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Amshan Kumar"
+genres:
+  - "Drama"
+years:
+  - "2017"
 ---
-

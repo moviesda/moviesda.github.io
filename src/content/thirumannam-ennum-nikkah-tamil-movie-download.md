@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:49:58
 updated_at: 2025-04-01 10:49:58
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Anis"
+genres:
+  - "Romance"
+years:
+  - "2014"
 ---
-

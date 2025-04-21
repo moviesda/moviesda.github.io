@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:16:53
 updated_at: 2025-03-20 19:16:53
+categories:
+  - "Tamil Movies"
+directors:
+  - "N/A"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "1994"
 ---
-

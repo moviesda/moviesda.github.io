@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:23:10
 updated_at: 2025-04-01 11:23:10
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Sundar C."
+genres:
+  - "Comedy"
+  - "Horror"
+years:
+  - "2016"
 ---
-

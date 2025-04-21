@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:35:43
 updated_at: 2025-03-21 16:35:43
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.J. Suryah"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2000"
 ---
-

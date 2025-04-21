@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:18:59
 updated_at: 2025-03-20 19:18:59
+categories:
+  - "Tamil Movies"
+directors:
+  - "Balu Mahendra"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "1995"
 ---
-

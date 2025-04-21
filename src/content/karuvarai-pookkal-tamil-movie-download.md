@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:39:48
 updated_at: 2025-03-22 08:39:48
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Ips Xavier"
+genres:
+  - "Drama"
+years:
+  - "2011"
 ---
-

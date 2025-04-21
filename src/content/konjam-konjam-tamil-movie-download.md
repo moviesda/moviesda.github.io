@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:07:04
 updated_at: 2025-04-08 16:07:04
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Uday Sankaran"
+genres:
+  - "Family"
+years:
+  - "2017"
 ---
-

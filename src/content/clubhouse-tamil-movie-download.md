@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:59
 updated_at: 2025-04-18 19:08:59
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Amin"
+genres:
+  - "Thriller"
+years:
+  - "2023"
 ---
-

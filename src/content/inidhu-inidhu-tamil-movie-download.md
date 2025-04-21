@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:23:59
 updated_at: 2025-03-22 08:23:59
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "K.V. Guhan"
+genres:
+  - "Romance"
+years:
+  - "2010"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:05:53
 updated_at: 2025-03-22 08:05:53
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Bala"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2009"
 ---
-

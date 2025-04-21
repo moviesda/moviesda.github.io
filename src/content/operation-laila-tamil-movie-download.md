@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:04:29
 updated_at: 2025-04-19 05:04:29
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "A. Venkatesh"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

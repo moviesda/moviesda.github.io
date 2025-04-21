@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:07:23
 updated_at: 2025-04-19 06:07:23
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Ashwath Marimuthu"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2024"
 ---
-

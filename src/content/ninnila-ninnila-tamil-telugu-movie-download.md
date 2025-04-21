@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:30:46
 updated_at: 2025-04-10 19:30:46
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Ani. I.V. Sasi"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2021"
 ---
-

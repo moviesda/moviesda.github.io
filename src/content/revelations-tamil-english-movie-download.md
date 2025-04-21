@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:26:59
 updated_at: 2025-04-01 11:26:59
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Vijay Jayapal"
+genres:
+  - "Drama"
+years:
+  - "2016"
 ---
-

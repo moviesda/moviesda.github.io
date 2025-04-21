@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:06:55
 updated_at: 2025-03-22 08:06:55
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Thai Muthuselvan"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2009"
 ---
-

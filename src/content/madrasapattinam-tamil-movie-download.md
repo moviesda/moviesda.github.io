@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:16:14
 updated_at: 2025-03-22 08:16:14
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "A.L. Vijay"
+genres:
+  - "Drama"
+  - "History"
+  - "Romance"
+years:
+  - "2010"
 ---
-

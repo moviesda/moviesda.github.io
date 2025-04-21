@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:16:58
 updated_at: 2025-03-20 19:16:58
+categories:
+  - "Tamil Movies"
+directors:
+  - "K. Subhash"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "1994"
 ---
-

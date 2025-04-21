@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:30
 updated_at: 2025-04-10 19:18:30
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Karthik Gopal"
+genres:
+  - "Thriller"
+years:
+  - "2020"
 ---
-

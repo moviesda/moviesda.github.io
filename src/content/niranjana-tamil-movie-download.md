@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:05:54
 updated_at: 2025-04-08 16:05:54
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Pandi Arunachalam"
+genres:
+  - "N/A"
+years:
+  - "2017"
 ---
-

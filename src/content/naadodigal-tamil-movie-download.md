@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:05:59
 updated_at: 2025-03-22 08:05:59
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Samuthirakani"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2009"
 ---
-

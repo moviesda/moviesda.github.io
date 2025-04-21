@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:48
 updated_at: 2025-03-20 19:19:48
+categories:
+  - "Tamil Movies"
+directors:
+  - "Shivakumar"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "1995"
 ---
-

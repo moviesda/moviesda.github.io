@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:01
 updated_at: 2025-04-18 19:09:01
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Sai Karthik"
+genres:
+  - "Crime"
+years:
+  - "2023"
 ---
-

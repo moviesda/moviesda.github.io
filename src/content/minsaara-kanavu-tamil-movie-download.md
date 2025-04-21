@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:11:57
 updated_at: 2025-03-21 03:11:57
+categories:
+  - "Tamil Movies"
+directors:
+  - "Rajiv Menon"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "1997"
 ---
-

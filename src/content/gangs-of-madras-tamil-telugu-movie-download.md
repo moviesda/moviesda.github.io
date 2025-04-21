@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:10:48
 updated_at: 2025-04-10 19:10:48
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "C.V. Kumar"
+genres:
+  - "Action"
+years:
+  - "2019"
 ---
-

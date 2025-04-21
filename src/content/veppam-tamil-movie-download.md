@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:40
 updated_at: 2025-03-22 08:38:40
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Anjana"
+  - "Anjana Ali Khan"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2011"
 ---
-

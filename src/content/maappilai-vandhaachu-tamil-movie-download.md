@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:57:24
 updated_at: 2025-03-20 18:57:24
+categories:
+  - "Tamil Movies"
+directors:
+  - "Sasi Mohan"
+genres:
+  - "N/A"
+years:
+  - "1992"
 ---
-

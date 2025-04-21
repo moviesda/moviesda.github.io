@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:36:01
 updated_at: 2025-03-21 16:36:01
+categories:
+  - "Tamil Movies"
+directors:
+  - "Ezhil"
+genres:
+  - "Musical"
+years:
+  - "2000"
 ---
-

@@ -30,5 +30,16 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:32
 updated_at: 2025-04-08 16:04:32
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Sanif Olek"
+  - "K Rajagopal"
+  - "Kelvin Tong"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Sci-Fi"
+years:
+  - "2017"
 ---
-

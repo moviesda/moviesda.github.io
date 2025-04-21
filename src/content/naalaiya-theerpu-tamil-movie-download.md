@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:56:43
 updated_at: 2025-03-20 18:56:43
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "1992"
 ---
-

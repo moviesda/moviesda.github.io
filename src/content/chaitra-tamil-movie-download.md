@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:11:34
 updated_at: 2025-04-18 19:11:34
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "M Jenithkumar"
+genres:
+  - "Horror"
+years:
+  - "2023"
 ---
-

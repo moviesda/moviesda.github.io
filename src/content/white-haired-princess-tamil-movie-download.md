@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:13
 updated_at: 2025-04-10 19:51:13
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Tianyu Zhou"
+genres:
+  - "Fantasy"
+years:
+  - "2022"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:48:42
 updated_at: 2025-03-21 16:48:42
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "S. Murali Mohan"
+genres:
+  - "Thriller"
+years:
+  - "2002"
 ---
-

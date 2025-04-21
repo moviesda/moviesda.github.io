@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:35
 updated_at: 2025-03-21 03:12:35
+categories:
+  - "Tamil Movies"
+directors:
+  - "R.K. Selvamani"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "1997"
 ---
-

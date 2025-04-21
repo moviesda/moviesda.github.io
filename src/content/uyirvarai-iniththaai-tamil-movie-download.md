@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:34:30
 updated_at: 2025-03-22 10:34:30
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "K.S. Thurai"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2014"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:30:00
 updated_at: 2025-04-10 19:30:00
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Arunvignesh ADS"
+  - "Savo Bojovic"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2021"
 ---
-

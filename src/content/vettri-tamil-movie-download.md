@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:34:47
 updated_at: 2025-04-10 19:34:47
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Anjana Ali Khan"
+genres:
+  - "Drama"
+years:
+  - "2021"
 ---
-

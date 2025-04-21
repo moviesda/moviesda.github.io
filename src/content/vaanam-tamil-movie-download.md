@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:37:39
 updated_at: 2025-03-22 08:37:39
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Radha Krishna Jagarlamudi"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2011"
 ---
-

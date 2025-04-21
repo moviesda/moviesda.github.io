@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:45:24
 updated_at: 2025-04-19 05:45:24
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "A. Tamilselvan"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

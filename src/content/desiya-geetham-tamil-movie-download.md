@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:22:53
 updated_at: 2025-03-21 16:22:53
+categories:
+  - "Tamil Movies"
+directors:
+  - "Cheran"
+genres:
+  - "N/A"
+years:
+  - "1998"
 ---
-

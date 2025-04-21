@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:54:18
 updated_at: 2025-03-21 16:54:18
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Jerry"
+genres:
+  - "Horror"
+years:
+  - "2003"
 ---
-

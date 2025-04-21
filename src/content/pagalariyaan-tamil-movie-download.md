@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:37:45
 updated_at: 2025-04-19 05:37:45
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Murugan"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

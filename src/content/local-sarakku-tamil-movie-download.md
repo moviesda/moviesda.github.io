@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:03:47
 updated_at: 2025-04-19 05:03:47
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "S.P. Rajkumar"
+genres:
+  - "N/A"
+years:
+  - "2024"
 ---
-

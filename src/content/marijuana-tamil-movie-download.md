@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:21:18
 updated_at: 2025-04-10 19:21:18
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "M.D. Anand"
+genres:
+  - "Comedy"
+  - "Thriller"
+years:
+  - "2020"
 ---
-

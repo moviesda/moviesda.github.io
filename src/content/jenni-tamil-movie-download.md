@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:14:25
 updated_at: 2025-04-18 17:14:25
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "B.Nithianandam"
+genres:
+  - "Horror"
+years:
+  - "2023"
 ---
-

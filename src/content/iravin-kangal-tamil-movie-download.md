@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:05:25
 updated_at: 2025-04-19 05:05:25
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Pop Suresh"
+genres:
+  - "Sci-Fi"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

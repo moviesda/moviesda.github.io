@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:29:10
 updated_at: 2025-04-10 19:29:10
+categories:
+  - "Telugu 2021 Movies"
+directors:
+  - "S. Kaarthieswaran"
+genres:
+  - "Comedy"
+  - "Horror"
+years:
+  - "2021"
 ---
-

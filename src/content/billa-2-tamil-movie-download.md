@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:26
 updated_at: 2025-03-22 09:32:26
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Chakri Toleti"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2012"
 ---
-

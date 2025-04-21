@@ -30,5 +30,16 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:05:52
 updated_at: 2025-03-22 08:05:52
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "S.P. Jhananathan"
+  - "N. Kalyanakrishnan"
+  - "V. Yokaanand"
+genres:
+  - "Action"
+  - "Adventure"
+  - "Drama"
+years:
+  - "2009"
 ---
-

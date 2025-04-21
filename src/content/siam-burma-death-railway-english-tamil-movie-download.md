@@ -30,5 +30,16 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:49:51
 updated_at: 2025-04-01 10:49:51
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Kurinji Vendan"
+  - "Rajsankar"
+  - "Saravanamoorthy"
+genres:
+  - "Documentary"
+  - "History"
+  - "War"
+years:
+  - "2014"
 ---
-

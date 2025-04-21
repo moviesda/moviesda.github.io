@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:31:53
 updated_at: 2025-03-22 09:31:53
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Andrew Louis"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2012"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:33:03
 updated_at: 2025-04-10 19:33:03
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Crime"
+  - "Drama"
+years:
+  - "2021"
 ---
-

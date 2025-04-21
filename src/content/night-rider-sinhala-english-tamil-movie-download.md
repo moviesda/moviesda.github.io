@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:54:14
 updated_at: 2025-04-10 19:54:14
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Kasun Chandranath Pathirana"
+genres:
+  - "Action"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

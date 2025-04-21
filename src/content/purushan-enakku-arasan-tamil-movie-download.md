@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:57:00
 updated_at: 2025-03-20 18:57:00
+categories:
+  - "Tamil Movies"
+directors:
+  - "Rama Narayanan"
+genres:
+  - "Comedy"
+years:
+  - "1992"
 ---
-

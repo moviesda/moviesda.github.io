@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:34:37
 updated_at: 2025-03-22 10:34:37
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "K.S. Vasanthakumar"
+genres:
+  - "Drama"
+years:
+  - "2014"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:32:27
 updated_at: 2025-03-21 16:32:27
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Action"
+  - "Drama"
+  - "Romance"
+years:
+  - "1999"
 ---
-

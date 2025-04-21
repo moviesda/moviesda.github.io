@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:19:11
 updated_at: 2025-04-10 19:19:11
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Desingh Periyasamy"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2020"
 ---
-

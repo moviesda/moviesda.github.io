@@ -30,5 +30,16 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:45
 updated_at: 2025-03-22 08:15:45
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Harish Narayan"
+  - "Krishna Sekhar"
+  - "K. Hari Shankar"
+genres:
+  - "Horror"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2010"
 ---
-

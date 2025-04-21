@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:07:14
 updated_at: 2025-03-22 08:07:14
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "Sabapathy"
+  - "Dekshinamurthy Sabapathy"
+genres:
+  - "Family"
+years:
+  - "2009"
 ---
-

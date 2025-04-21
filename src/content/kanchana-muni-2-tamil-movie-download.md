@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:32
 updated_at: 2025-03-22 08:38:32
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Raghava Lawrence"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Horror"
+years:
+  - "2011"
 ---
-

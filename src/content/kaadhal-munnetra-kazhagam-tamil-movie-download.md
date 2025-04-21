@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:11:21
 updated_at: 2025-04-10 19:11:21
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Manicka Sathya"
+genres:
+  - "Romance"
+years:
+  - "2019"
 ---
-

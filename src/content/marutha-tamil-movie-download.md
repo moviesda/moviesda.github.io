@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:19
 updated_at: 2025-04-10 19:51:19
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Grs"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2022"
 ---
-

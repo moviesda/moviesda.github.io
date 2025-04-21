@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:31:59
 updated_at: 2025-03-21 16:31:59
+categories:
+  - "Tamil Movies"
+directors:
+  - "S.J. Suryah"
+genres:
+  - "Romance"
+  - "Thriller"
+years:
+  - "1999"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:31:32
 updated_at: 2025-03-22 07:31:32
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "S.A. Chandrashekhar"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2008"
 ---
-

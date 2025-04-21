@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:37:36
 updated_at: 2025-04-19 05:37:36
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Thamizh"
+genres:
+  - "Action"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

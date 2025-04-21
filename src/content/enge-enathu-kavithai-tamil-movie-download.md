@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:49:51
 updated_at: 2025-03-21 16:49:51
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Ramesh Aravind"
+genres:
+  - "Drama"
+years:
+  - "2002"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:35
 updated_at: 2025-04-10 19:51:35
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Dato Athy"
+genres:
+  - "Horror"
+years:
+  - "2022"
 ---
-

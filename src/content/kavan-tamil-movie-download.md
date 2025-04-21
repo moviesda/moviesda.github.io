@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:04:20
 updated_at: 2025-04-08 16:04:20
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "K.V. Anand"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

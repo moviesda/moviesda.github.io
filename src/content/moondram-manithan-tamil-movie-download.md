@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:12:26
 updated_at: 2025-04-18 19:12:26
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Ramdev"
+genres:
+  - "Crime"
+years:
+  - "2023"
 ---
-

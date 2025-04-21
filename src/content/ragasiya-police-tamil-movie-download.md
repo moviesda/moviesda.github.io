@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:20:18
 updated_at: 2025-03-20 19:20:18
+categories:
+  - "Tamil Movies"
+directors:
+  - "N/A"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "1995"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:02
 updated_at: 2025-03-22 08:38:02
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Prabhu Deva"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2011"
 ---
-

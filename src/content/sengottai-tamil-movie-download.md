@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:22:17
 updated_at: 2025-03-20 19:22:17
+categories:
+  - "Tamil Movies"
+directors:
+  - "C.V. Sasikumar"
+genres:
+  - "Action"
+years:
+  - "1996"
 ---
-

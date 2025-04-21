@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:09:26
 updated_at: 2025-04-18 19:09:26
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "M.R Madhavan"
+genres:
+  - "Crime"
+years:
+  - "2023"
 ---
-

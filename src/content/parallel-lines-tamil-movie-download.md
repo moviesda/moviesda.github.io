@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:30:22
 updated_at: 2025-04-10 19:30:22
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "R. Kiran"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2021"
 ---
-

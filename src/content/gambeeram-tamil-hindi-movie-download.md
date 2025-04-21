@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:16:25
 updated_at: 2025-03-22 03:16:25
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Suresh"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Crime"
+years:
+  - "2004"
 ---
-

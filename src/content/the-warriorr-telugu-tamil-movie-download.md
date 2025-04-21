@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:53:46
 updated_at: 2025-04-10 19:53:46
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "N. Linguswamy"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2022"
 ---
-

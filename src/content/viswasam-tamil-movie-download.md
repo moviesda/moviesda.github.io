@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:08:29
 updated_at: 2025-04-10 19:08:29
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Siva"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2019"
 ---
-

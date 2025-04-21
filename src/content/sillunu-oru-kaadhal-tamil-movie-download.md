@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:05:36
 updated_at: 2025-03-22 06:05:36
+categories:
+  - "Tamil 2006 Movies"
+directors:
+  - "Obeli N. Krishna"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2006"
 ---
-

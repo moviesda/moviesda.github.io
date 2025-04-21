@@ -34,5 +34,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:30
 updated_at: 2025-03-20 19:19:30
+categories:
+  - "Tamil Movies"
+directors:
+  - "Ramchandar"
+genres:
+  - "Horror"
+years:
+  - "1995"
 ---
-

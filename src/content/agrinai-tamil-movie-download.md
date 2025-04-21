@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:04:34
 updated_at: 2025-04-19 05:04:34
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Thanesh Perrabu"
+  - "Kohgulan"
+genres:
+  - "Horror"
+  - "Sci-Fi"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

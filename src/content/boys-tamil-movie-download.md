@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:54:40
 updated_at: 2025-03-21 16:54:40
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "S. Shankar"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Music"
+years:
+  - "2003"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:58:06
 updated_at: 2025-04-10 18:58:06
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Karthik Shamalan"
+genres:
+  - "Romance"
+years:
+  - "2018"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:26:38
 updated_at: 2025-04-01 11:26:38
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Prabu Solomon"
+genres:
+  - "Action"
+  - "Adventure"
+  - "Comedy"
+years:
+  - "2016"
 ---
-

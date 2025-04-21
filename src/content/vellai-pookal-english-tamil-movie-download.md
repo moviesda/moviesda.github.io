@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:10:58
 updated_at: 2025-04-10 19:10:58
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Vivek Elangovan"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2019"
 ---
-

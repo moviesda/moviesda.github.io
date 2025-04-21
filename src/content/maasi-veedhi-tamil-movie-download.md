@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:24:45
 updated_at: 2025-04-01 11:24:45
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Veera Murugan"
+genres:
+  - "Action"
+years:
+  - "2016"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:56:44
 updated_at: 2025-04-10 18:56:44
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Vijai Balaji S."
+genres:
+  - "Comedy"
+years:
+  - "2018"
 ---
-

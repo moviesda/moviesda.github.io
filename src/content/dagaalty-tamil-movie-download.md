@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:28
 updated_at: 2025-04-10 19:18:28
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Vijay Anand"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2020"
 ---
-

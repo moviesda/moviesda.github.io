@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:35:23
 updated_at: 2025-03-21 16:35:23
+categories:
+  - "Tamil Movies"
+directors:
+  - "Vikraman"
+genres:
+  - "Drama"
+  - "Musical"
+  - "Romance"
+years:
+  - "2000"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:10:45
 updated_at: 2025-04-01 11:10:45
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Kamal G"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2015"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:12:15
 updated_at: 2025-04-18 17:12:15
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Velan D.S.W.D.F.D"
+genres:
+  - "Family"
+years:
+  - "2023"
 ---
-

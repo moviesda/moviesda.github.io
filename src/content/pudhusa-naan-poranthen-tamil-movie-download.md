@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:26:32
 updated_at: 2025-04-01 11:26:32
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Majeed Abu"
+genres:
+  - "Action"
+years:
+  - "2016"
 ---
-

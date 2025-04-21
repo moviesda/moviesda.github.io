@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:33:24
 updated_at: 2025-03-22 10:33:24
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Vimala Perumal"
+genres:
+  - "Comedy"
+years:
+  - "2014"
 ---
-

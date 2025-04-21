@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:56:58
 updated_at: 2025-04-10 18:56:58
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Boopathy Pandian"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2018"
 ---
-

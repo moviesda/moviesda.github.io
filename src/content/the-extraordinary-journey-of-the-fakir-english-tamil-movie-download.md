@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:58:21
 updated_at: 2025-04-10 18:58:21
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Ken Scott"
+genres:
+  - "Adventure"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2018"
 ---
-

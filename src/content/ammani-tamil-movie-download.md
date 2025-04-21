@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:27:05
 updated_at: 2025-04-01 11:27:05
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Lakshmy Ramakrishnan"
+genres:
+  - "Drama"
+  - "Family"
+years:
+  - "2016"
 ---
-

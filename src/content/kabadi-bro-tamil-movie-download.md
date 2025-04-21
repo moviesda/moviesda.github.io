@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:08:50
 updated_at: 2025-04-18 19:08:50
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Sathish Jayaraman"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Family"
+years:
+  - "2023"
 ---
-

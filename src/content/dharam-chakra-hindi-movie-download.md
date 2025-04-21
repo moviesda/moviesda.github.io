@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:27
 updated_at: 2025-03-21 03:12:27
+categories:
+  - "Tamil Movies"
+directors:
+  - "K.S. Ravikumar"
+genres:
+  - "Action"
+years:
+  - "1997"
 ---
-

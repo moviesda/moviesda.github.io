@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:00
 updated_at: 2025-03-20 19:19:00
+categories:
+  - "Tamil Movies"
+directors:
+  - "K.S. Ravikumar"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "1995"
 ---
-

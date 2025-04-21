@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:19:45
 updated_at: 2025-03-20 19:19:45
+categories:
+  - "Tamil Movies"
+directors:
+  - "R.K. Selvamani"
+genres:
+  - "Thriller"
+years:
+  - "1995"
 ---
-

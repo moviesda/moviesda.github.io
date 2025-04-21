@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:31:30
 updated_at: 2025-03-22 07:31:30
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "V.Z. Dhorai"
+genres:
+  - "Crime"
+  - "Romance"
+  - "Thriller"
+years:
+  - "2008"
 ---
-

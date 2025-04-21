@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:08:56
 updated_at: 2025-04-08 16:08:56
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Charles"
+genres:
+  - "Action"
+  - "Adventure"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:39:59
 updated_at: 2025-03-22 09:39:59
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "Amit Virmani"
+genres:
+  - "Documentary"
+  - "Biography"
+years:
+  - "2013"
 ---
-

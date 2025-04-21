@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:22:58
 updated_at: 2025-03-22 06:22:58
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "Seenu Ramasamy"
+genres:
+  - "Romance"
+years:
+  - "2007"
 ---
-

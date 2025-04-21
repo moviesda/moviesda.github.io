@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:53:47
 updated_at: 2025-03-21 16:53:47
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Karu Pazhaniappan"
+genres:
+  - "Drama"
+years:
+  - "2003"
 ---
-

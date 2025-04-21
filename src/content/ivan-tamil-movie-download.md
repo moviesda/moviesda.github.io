@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:50:31
 updated_at: 2025-03-21 16:50:31
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Parthiban Radhakrishnan"
+genres:
+  - "Action"
+years:
+  - "2002"
 ---
-

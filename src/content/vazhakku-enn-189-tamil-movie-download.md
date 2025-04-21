@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:31:57
 updated_at: 2025-03-22 09:31:57
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Balaji Sakthivel"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2012"
 ---
-

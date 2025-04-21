@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:56:57
 updated_at: 2025-03-20 18:56:57
+categories:
+  - "Tamil Movies"
+directors:
+  - "R. Sundarajan"
+genres:
+  - "Drama"
+years:
+  - "1992"
 ---
-

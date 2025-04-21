@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:15:29
 updated_at: 2025-03-22 03:15:29
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "S.J. Suryah"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Musical"
+years:
+  - "2004"
 ---
-

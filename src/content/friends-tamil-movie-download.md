@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:43:18
 updated_at: 2025-03-21 16:43:18
+categories:
+  - "Tamil 2001 Movies"
+directors:
+  - "Siddique"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2001"
 ---
-

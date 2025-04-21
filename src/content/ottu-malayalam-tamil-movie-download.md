@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:12
 updated_at: 2025-04-18 16:50:12
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Fellini T.P."
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

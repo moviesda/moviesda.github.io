@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:42:22
 updated_at: 2025-03-22 09:42:22
+categories:
+  - "Tamil 2013 Movies"
+directors:
+  - "I. Ahmed"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2013"
 ---
-

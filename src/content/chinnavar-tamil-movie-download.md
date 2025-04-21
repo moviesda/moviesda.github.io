@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:58:03
 updated_at: 2025-03-20 18:58:03
+categories:
+  - "Tamil Movies"
+directors:
+  - "Gangai Amaran"
+genres:
+  - "N/A"
+years:
+  - "1992"
 ---
-

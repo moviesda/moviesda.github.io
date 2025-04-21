@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:54:24
 updated_at: 2025-03-21 16:54:24
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Dekshinamurthy Sabapathy"
+genres:
+  - "Romance"
+years:
+  - "2003"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:11:25
 updated_at: 2025-04-18 19:11:25
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Ganapathy Balamurugan"
+genres:
+  - "N/A"
+years:
+  - "2023"
 ---
-

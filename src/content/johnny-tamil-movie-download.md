@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:00:55
 updated_at: 2025-04-10 19:00:55
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Vetriselvan"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2018"
 ---
-

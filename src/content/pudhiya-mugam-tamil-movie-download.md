@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:13:04
 updated_at: 2025-03-20 19:13:04
+categories:
+  - "Tamil Movies"
+directors:
+  - "Suresh Chandra Menon"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "1993"
 ---
-

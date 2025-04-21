@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:22:12
 updated_at: 2025-03-22 06:22:12
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "N/A"
+genres:
+  - "Horror"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2007"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:23:04
 updated_at: 2025-04-01 11:23:04
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Sugan Kartthi"
+genres:
+  - "Action"
+  - "Drama"
+  - "War"
+years:
+  - "2016"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:07:31
 updated_at: 2025-04-08 16:07:31
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Ravee Paargavan"
+genres:
+  - "Comedy"
+years:
+  - "2017"
 ---
-

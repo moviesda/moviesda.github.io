@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:38:24
 updated_at: 2025-03-22 08:38:24
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Samuthirakani"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2011"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:31:45
 updated_at: 2025-04-10 19:31:45
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Mithran Jawahar"
+genres:
+  - "Drama"
+years:
+  - "2021"
 ---
-

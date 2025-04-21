@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:21:10
 updated_at: 2025-04-10 19:21:10
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Kabilan Plondran"
+genres:
+  - "Action"
+  - "Crime"
+years:
+  - "2020"
 ---
-

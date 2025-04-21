@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:22:17
 updated_at: 2025-04-10 19:22:17
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Ravi Rl"
+  - "Matthew S"
+  - "Mathew Scaria"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2020"
 ---
-

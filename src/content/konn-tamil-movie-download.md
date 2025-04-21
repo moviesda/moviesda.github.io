@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 10:50:09
 updated_at: 2025-04-01 10:50:09
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Jena K. Siva"
+genres:
+  - "Crime"
+years:
+  - "2014"
 ---
-

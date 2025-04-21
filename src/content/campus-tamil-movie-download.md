@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:17:08
 updated_at: 2025-03-22 03:17:08
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Sharvi"
+genres:
+  - "Drama"
+years:
+  - "2004"
 ---
-

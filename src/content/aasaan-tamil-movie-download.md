@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:08:20
 updated_at: 2025-04-08 16:08:20
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Sd Puvanendran"
+genres:
+  - "Thriller"
+years:
+  - "2017"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:18:24
 updated_at: 2025-04-10 19:18:24
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Arun Karthick"
+genres:
+  - "Drama"
+years:
+  - "2020"
 ---
-

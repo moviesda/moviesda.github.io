@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:49:56
 updated_at: 2025-03-21 16:49:56
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Somaratne Dissanayake"
+genres:
+  - "Family"
+years:
+  - "2002"
 ---
-

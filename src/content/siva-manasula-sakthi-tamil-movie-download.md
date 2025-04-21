@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:05:49
 updated_at: 2025-03-22 08:05:49
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "M. Rajesh"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2009"
 ---
-

@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 18:59:22
 updated_at: 2025-04-10 18:59:22
+categories:
+  - "Tamil 2018 Movies"
+directors:
+  - "Jathin Sanker Raj"
+  - "Nishanth Ravindaran"
+genres:
+  - "Comedy"
+  - "Crime"
+  - "Drama"
+years:
+  - "2018"
 ---
-

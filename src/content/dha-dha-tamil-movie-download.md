@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:42
 updated_at: 2025-04-18 16:50:42
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Guinness Kishore"
+genres:
+  - "Crime"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

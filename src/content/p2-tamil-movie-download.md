@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:38:48
 updated_at: 2025-04-19 05:38:48
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Sivam"
+genres:
+  - "Horror"
+  - "Thriller"
+years:
+  - "2024"
 ---
-

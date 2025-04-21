@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:04:20
 updated_at: 2025-04-19 05:04:20
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Jegan Subramaniam"
+genres:
+  - "Action"
+years:
+  - "2024"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:11:10
 updated_at: 2025-04-10 19:11:10
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "M. Rajesh"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2019"
 ---
-

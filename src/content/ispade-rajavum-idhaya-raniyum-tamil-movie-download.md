@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:09:59
 updated_at: 2025-04-10 19:09:59
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Ranjit Jeyakodi"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2019"
 ---
-

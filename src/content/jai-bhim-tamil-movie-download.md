@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:33:33
 updated_at: 2025-04-10 19:33:33
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "T.J. Gnanavel"
+genres:
+  - "Crime"
+  - "Drama"
+years:
+  - "2021"
 ---
-

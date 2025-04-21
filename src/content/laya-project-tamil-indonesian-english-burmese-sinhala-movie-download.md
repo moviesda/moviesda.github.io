@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:23:22
 updated_at: 2025-03-22 06:23:22
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "Harold Monfils"
+genres:
+  - "Documentary"
+years:
+  - "2007"
 ---
-

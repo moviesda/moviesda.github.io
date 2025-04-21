@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:06:15
 updated_at: 2025-04-08 16:06:15
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Alex Tavakoli"
+genres:
+  - "Action"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2017"
 ---
-

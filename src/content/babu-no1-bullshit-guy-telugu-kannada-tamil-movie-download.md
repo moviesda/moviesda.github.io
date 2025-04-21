@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:04:50
 updated_at: 2025-04-19 05:04:50
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Laxmman Varma MLR"
+genres:
+  - "Comedy"
+years:
+  - "2024"
 ---
-

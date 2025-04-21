@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:50:17
 updated_at: 2025-03-21 16:50:17
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "J. Suresh"
+genres:
+  - "Drama"
+  - "Romance"
+years:
+  - "2002"
 ---
-

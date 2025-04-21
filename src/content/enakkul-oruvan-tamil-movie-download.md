@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:09:57
 updated_at: 2025-04-01 11:09:57
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Prasath Ramar"
+genres:
+  - "Drama"
+  - "Thriller"
+years:
+  - "2015"
 ---
-

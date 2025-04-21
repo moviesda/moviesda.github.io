@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:22:19
 updated_at: 2025-04-10 19:22:19
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "Manu Parthepan"
+genres:
+  - "Drama"
+  - "Fantasy"
+  - "Music"
+years:
+  - "2020"
 ---
-

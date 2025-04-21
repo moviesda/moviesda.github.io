@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:16
 updated_at: 2025-04-18 16:50:16
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Shree Karthick"
+  - "Shreekarthick"
+genres:
+  - "Drama"
+  - "Sci-Fi"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:28:04
 updated_at: 2025-04-01 11:28:04
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Mainak Dhar"
+genres:
+  - "Drama"
+years:
+  - "2016"
 ---
-

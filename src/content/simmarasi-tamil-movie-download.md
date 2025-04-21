@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:22:11
 updated_at: 2025-03-21 16:22:11
+categories:
+  - "Tamil Movies"
+directors:
+  - "Erode Sounder"
+genres:
+  - "Drama"
+years:
+  - "1998"
 ---
-

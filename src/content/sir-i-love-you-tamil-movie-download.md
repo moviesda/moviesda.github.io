@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 18:45:34
 updated_at: 2025-03-20 18:45:34
+categories:
+  - "Tamil Movies"
+directors:
+  - "G.N. Rangarajan"
+genres:
+  - "N/A"
+years:
+  - "1991"
 ---
-

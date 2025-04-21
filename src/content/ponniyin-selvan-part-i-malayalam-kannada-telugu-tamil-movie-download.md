@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:38
 updated_at: 2025-04-18 16:50:38
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Mani Ratnam"
+  - "Sruti Harihara Subramanian"
+genres:
+  - "Action"
+  - "Adventure"
+  - "Drama"
+years:
+  - "2022"
 ---
-

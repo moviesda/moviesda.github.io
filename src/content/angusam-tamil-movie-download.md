@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:35:09
 updated_at: 2025-03-22 10:35:09
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Manukannan"
+genres:
+  - "Action"
+years:
+  - "2014"
 ---
-

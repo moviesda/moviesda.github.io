@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:05:56
 updated_at: 2025-03-22 08:05:56
+categories:
+  - "Tamil 2009 Movies"
+directors:
+  - "K.S. Ravikumar"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "2009"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:07:00
 updated_at: 2025-04-19 06:07:00
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Varsha Bharath"
+genres:
+  - "Comedy"
+years:
+  - "2025"
 ---
-

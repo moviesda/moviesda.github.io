@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:12
 updated_at: 2025-03-22 09:32:12
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Ezhil"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2012"
 ---
-

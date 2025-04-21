@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 07:30:44
 updated_at: 2025-03-22 07:30:44
+categories:
+  - "Tamil 2008 Movies"
+directors:
+  - "P. Vasu"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Family"
+years:
+  - "2008"
 ---
-

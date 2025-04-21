@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:21:12
 updated_at: 2025-04-10 19:21:12
+categories:
+  - "Telugu 2020 Movies"
+directors:
+  - "RJ Balaji"
+  - "N.J. Saravanan"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Fantasy"
+years:
+  - "2020"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:38
 updated_at: 2025-04-10 19:52:38
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Vignesh Shivan"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Romance"
+years:
+  - "2022"
 ---
-

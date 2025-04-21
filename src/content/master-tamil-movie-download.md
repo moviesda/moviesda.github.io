@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:29:51
 updated_at: 2025-04-10 19:29:51
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Lokesh Kanagaraj"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2021"
 ---
-

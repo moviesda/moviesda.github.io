@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:12:46
 updated_at: 2025-03-20 19:12:46
+categories:
+  - "Tamil Movies"
+directors:
+  - "K. Nataraj"
+genres:
+  - "Drama"
+years:
+  - "1993"
 ---
-

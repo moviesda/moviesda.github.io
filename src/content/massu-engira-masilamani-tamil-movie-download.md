@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:11:13
 updated_at: 2025-04-01 11:11:13
+categories:
+  - "Tamil 2015 Movies"
+directors:
+  - "Venkat Prabhu"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Drama"
+years:
+  - "2015"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:33:06
 updated_at: 2025-04-10 19:33:06
+categories:
+  - "Tamil 2021 Movies"
+directors:
+  - "Vineeth Varaprasad"
+genres:
+  - "Drama"
+  - "Horror"
+  - "Mystery"
+years:
+  - "2021"
 ---
-

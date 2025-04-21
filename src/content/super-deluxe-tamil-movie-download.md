@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:10:21
 updated_at: 2025-04-10 19:10:21
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Thiagarajan Kumararaja"
+genres:
+  - "Comedy"
+  - "Crime"
+  - "Drama"
+years:
+  - "2019"
 ---
-

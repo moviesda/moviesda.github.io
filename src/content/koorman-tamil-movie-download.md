@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:51:40
 updated_at: 2025-04-10 19:51:40
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Bryan Biju George"
+genres:
+  - "Action"
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

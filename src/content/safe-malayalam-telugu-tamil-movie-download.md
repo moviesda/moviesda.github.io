@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:13:44
 updated_at: 2025-04-10 19:13:44
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Pradeep Kalipurayath"
+genres:
+  - "Action"
+  - "Crime"
+  - "Thriller"
+years:
+  - "2019"
 ---
-

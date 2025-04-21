@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:50:09
 updated_at: 2025-03-21 16:50:09
+categories:
+  - "Tamil 2002 Movies"
+directors:
+  - "Suki Moorth"
+genres:
+  - "Drama"
+years:
+  - "2002"
 ---
-

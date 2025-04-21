@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 19:10:11
 updated_at: 2025-04-18 19:10:11
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Esakki Karvannan"
+genres:
+  - "Drama"
+years:
+  - "2023"
 ---
-

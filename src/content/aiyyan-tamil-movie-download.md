@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:39:28
 updated_at: 2025-03-22 08:39:28
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Kenthiran Muniasami"
+genres:
+  - "Family"
+years:
+  - "2011"
 ---
-

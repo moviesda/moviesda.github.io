@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:53:40
 updated_at: 2025-03-21 16:53:40
+categories:
+  - "Tamil 2003 Movies"
+directors:
+  - "Subramaniam Siva"
+genres:
+  - "Comedy"
+  - "Romance"
+years:
+  - "2003"
 ---
-

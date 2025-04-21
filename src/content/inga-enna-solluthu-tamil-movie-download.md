@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:33:40
 updated_at: 2025-03-22 10:33:40
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Vincent Selva"
+genres:
+  - "Comedy"
+years:
+  - "2014"
 ---
-

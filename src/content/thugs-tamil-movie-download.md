@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:12:49
 updated_at: 2025-04-18 17:12:49
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Brinda Master"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2023"
 ---
-

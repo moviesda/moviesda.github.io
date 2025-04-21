@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:14
 updated_at: 2025-03-21 03:12:14
+categories:
+  - "Tamil Movies"
+directors:
+  - "D. Sabhapathi"
+genres:
+  - "Romance"
+years:
+  - "1997"
 ---
-

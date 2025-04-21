@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:39:52
 updated_at: 2025-03-22 08:39:52
+categories:
+  - "Tamil 2011 Movies"
+directors:
+  - "Senthamizhan"
+genres:
+  - "Drama"
+  - "History"
+years:
+  - "2011"
 ---
-

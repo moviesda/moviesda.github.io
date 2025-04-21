@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:50:30
 updated_at: 2025-04-18 16:50:30
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "Sam Anton"
+genres:
+  - "Action"
+  - "Drama"
+  - "Family"
+years:
+  - "2022"
 ---
-

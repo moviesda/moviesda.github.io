@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:49:55
 updated_at: 2025-04-18 16:49:55
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "K.R. Vinoth"
+genres:
+  - "Action"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

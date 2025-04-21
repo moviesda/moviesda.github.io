@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 10:34:34
 updated_at: 2025-03-22 10:34:34
+categories:
+  - "Tamil 2014 Movies"
+directors:
+  - "Santosh Sivan"
+genres:
+  - "Drama"
+  - "War"
+years:
+  - "2014"
 ---
-

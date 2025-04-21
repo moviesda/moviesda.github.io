@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:08:50
 updated_at: 2025-04-10 19:08:50
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "Deepak Narayan"
+genres:
+  - "Comedy"
+years:
+  - "2019"
 ---
-

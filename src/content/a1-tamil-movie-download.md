@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:12:30
 updated_at: 2025-04-10 19:12:30
+categories:
+  - "Telugu 2019 Movies"
+directors:
+  - "K. Johnson"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2019"
 ---
-

@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:57
 updated_at: 2025-04-10 19:52:57
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Arunraja Kamaraj"
+genres:
+  - "Crime"
+  - "Drama"
+  - "Mystery"
+years:
+  - "2022"
 ---
-

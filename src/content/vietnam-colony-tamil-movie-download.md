@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-20 19:17:30
 updated_at: 2025-03-20 19:17:30
+categories:
+  - "Tamil Movies"
+directors:
+  - "Santhana Bharathi"
+genres:
+  - "Action"
+  - "Comedy"
+years:
+  - "1994"
 ---
-

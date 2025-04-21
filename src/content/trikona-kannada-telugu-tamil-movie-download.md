@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:26
 updated_at: 2025-04-10 19:52:26
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Chandrakantha"
+genres:
+  - "Mystery"
+  - "Thriller"
+years:
+  - "2022"
 ---
-

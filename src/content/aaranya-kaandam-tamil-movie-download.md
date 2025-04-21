@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:39
 updated_at: 2025-03-22 08:15:39
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "Thiagarajan Kumararaja"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Crime"
+years:
+  - "2010"
 ---
-

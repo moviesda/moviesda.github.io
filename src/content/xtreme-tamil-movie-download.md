@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 06:06:30
 updated_at: 2025-04-19 06:06:30
+categories:
+  - "Tamil 2025 Movies"
+directors:
+  - "Rajavel Krishna"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2024"
 ---
-

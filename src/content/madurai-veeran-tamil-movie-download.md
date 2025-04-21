@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 06:23:40
 updated_at: 2025-03-22 06:23:40
+categories:
+  - "Tamil 2007 Movies"
+directors:
+  - "Vincent Selva"
+genres:
+  - "Drama"
+years:
+  - "2007"
 ---
-

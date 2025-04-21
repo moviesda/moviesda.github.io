@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 16:56:23
 updated_at: 2025-04-18 16:56:23
+categories:
+  - "Tamil 2022 Movies"
+directors:
+  - "S. Mathan"
+genres:
+  - "Thriller"
+years:
+  - "2022"
 ---
-

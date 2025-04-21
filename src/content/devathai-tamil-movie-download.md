@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 03:12:57
 updated_at: 2025-03-21 03:12:57
+categories:
+  - "Tamil Movies"
+directors:
+  - "Nassar"
+genres:
+  - "N/A"
+years:
+  - "1997"
 ---
-

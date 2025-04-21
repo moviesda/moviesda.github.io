@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 08:15:24
 updated_at: 2025-03-22 08:15:24
+categories:
+  - "Tamil 2010 Movies"
+directors:
+  - "K. Selvaraghavan"
+genres:
+  - "Action"
+  - "Adventure"
+years:
+  - "2010"
 ---
-

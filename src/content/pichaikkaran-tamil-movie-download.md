@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:23:54
 updated_at: 2025-04-01 11:23:54
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Sasi"
+genres:
+  - "Action"
+  - "Drama"
+  - "Thriller"
+years:
+  - "2016"
 ---
-

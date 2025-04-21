@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:03:50
 updated_at: 2025-04-08 16:03:50
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Rajadurai"
+genres:
+  - "Action"
+  - "Drama"
+years:
+  - "2017"
 ---
-

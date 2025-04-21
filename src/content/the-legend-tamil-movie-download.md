@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:54:02
 updated_at: 2025-04-10 19:54:02
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Jerry"
+  - "Joseph D. Sami"
+genres:
+  - "Action"
+  - "Drama"
+  - "Romance"
+years:
+  - "2022"
 ---
-

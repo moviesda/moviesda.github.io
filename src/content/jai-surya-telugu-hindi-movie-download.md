@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:16:33
 updated_at: 2025-03-22 03:16:33
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Manoj Kumar"
+genres:
+  - "Action"
+  - "Crime"
+  - "Drama"
+years:
+  - "2004"
 ---
-

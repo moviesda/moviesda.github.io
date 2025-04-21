@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:13:27
 updated_at: 2025-04-18 17:13:27
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "Mathivanan"
+genres:
+  - "Comedy"
+  - "Crime"
+years:
+  - "2023"
 ---
-

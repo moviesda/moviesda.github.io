@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 03:16:19
 updated_at: 2025-03-22 03:16:19
+categories:
+  - "Tamil 2004 Movies"
+directors:
+  - "Venkatesh"
+genres:
+  - "Action"
+years:
+  - "2004"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-21 16:21:16
 updated_at: 2025-03-21 16:21:16
+categories:
+  - "Tamil Movies"
+directors:
+  - "Vincent Selva"
+genres:
+  - "Romance"
+  - "Thriller"
+years:
+  - "1998"
 ---
-

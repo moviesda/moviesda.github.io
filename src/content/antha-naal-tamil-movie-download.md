@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:46:01
 updated_at: 2025-04-19 05:46:01
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Vivy Kathiresan"
+genres:
+  - "Thriller"
+years:
+  - "2024"
 ---
-

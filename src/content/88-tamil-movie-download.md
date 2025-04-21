@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-08 16:06:05
 updated_at: 2025-04-08 16:06:05
+categories:
+  - "Tamil 2017 Movies"
+directors:
+  - "Madhan"
+genres:
+  - "Family"
+years:
+  - "2017"
 ---
-

@@ -30,5 +30,13 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:31:04
 updated_at: 2025-03-22 09:31:04
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "Pandiraj"
+genres:
+  - "Comedy"
+  - "Drama"
+years:
+  - "2012"
 ---
-

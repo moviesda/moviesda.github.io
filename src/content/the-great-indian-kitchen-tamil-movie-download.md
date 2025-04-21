@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-18 17:12:25
 updated_at: 2025-04-18 17:12:25
+categories:
+  - "Tamil 2023 Movies"
+directors:
+  - "R. Kannan"
+genres:
+  - "Drama"
+years:
+  - "2023"
 ---
-

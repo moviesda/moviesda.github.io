@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-19 05:37:29
 updated_at: 2025-04-19 05:37:29
+categories:
+  - "Tamil 2024 Movies"
+directors:
+  - "Ranjith Joseph"
+genres:
+  - "Drama"
+years:
+  - "2024"
 ---
-

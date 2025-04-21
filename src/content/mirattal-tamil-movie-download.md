@@ -30,5 +30,14 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-03-22 09:32:30
 updated_at: 2025-03-22 09:32:30
+categories:
+  - "Tamil 2012 Movies"
+directors:
+  - "R. Madhesh"
+genres:
+  - "Action"
+  - "Comedy"
+  - "Romance"
+years:
+  - "2012"
 ---
-

@@ -30,5 +30,15 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-10 19:52:46
 updated_at: 2025-04-10 19:52:46
+categories:
+  - "Telugu 2022 Movies"
+directors:
+  - "Sabari"
+  - "Guru Saravanan"
+genres:
+  - "Comedy"
+  - "Drama"
+  - "Sci-Fi"
+years:
+  - "2022"
 ---
-

@@ -30,5 +30,12 @@ redirect_to: null
 social_shares: 0
 created_at: 2025-04-01 11:25:35
 updated_at: 2025-04-01 11:25:35
+categories:
+  - "Tamil 2016 Movies"
+directors:
+  - "Samuthirakani"
+genres:
+  - "Drama"
+years:
+  - "2016"
 ---
-
