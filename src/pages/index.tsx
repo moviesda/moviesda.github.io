@@ -22,8 +22,8 @@ export default function Home({
   return (
     <>
       <NextSeo
-        title="1TamilMV: Tamil Movies Download"
-        description="Download the latest Tamil movies in HD quality. Explore a wide range of genres and find your favorite films on 1TamilMV."
+        title="Moviesda: Tamil Movies Download"
+        description="Download the latest Tamil movies in HD quality. Explore a wide range of genres and find your favorite films on Moviesda."
       />
 
       <main className=''>

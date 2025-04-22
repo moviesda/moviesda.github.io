@@ -10,8 +10,8 @@ const AllCategoriesPage = ({ categories }: Props) => {
     return (<>
 
         <NextSeo
-            title="Categories - 1TamilMV"
-            description="Explore a wide range of movie categories on 1TamilMV. Find your favorite genres and discover new films."
+            title="Categories - Moviesda"
+            description="Explore a wide range of movie categories on Moviesda. Find your favorite genres and discover new films."
         />
 
         <main className="mx-auto">

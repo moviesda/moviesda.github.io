@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Allow: /movie
 
-Sitemap: https://1tamilmv.mom/sitemaps/sitemap-index.xml
+Sitemap: https://moviesda.github.io/sitemaps/sitemap-index.xml

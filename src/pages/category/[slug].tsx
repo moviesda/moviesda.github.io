@@ -24,8 +24,8 @@ export default function CategoryPage({ category, movies, slug }: CategoryPagePro
     return (
         <>
             <NextSeo
-                title={`${category} Download - 1TamilMV`}
-                description="Explore a wide range of movie categories on 1TamilMV. Find your favorite genres and discover new films."
+                title={`${category} Download - Moviesda`}
+                description="Explore a wide range of movie categories on Moviesda. Find your favorite genres and discover new films."
             />
             <div className="container mx-auto">
                 <h1 className="text-2xl font-bold mb-6">Category: {category}</h1>

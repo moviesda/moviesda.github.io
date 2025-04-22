@@ -21,8 +21,8 @@ export default function CategoryPage({ category, movies, currentPage, totalPages
     return (
         <>
             <NextSeo
-                title={`Page ${currentPage}: ${category} Download - 1TamilMV`}
-                description="Explore a wide range of movie categories on 1TamilMV. Find your favorite genres and discover new films."
+                title={`Page ${currentPage}: ${category} Download - Moviesda`}
+                description="Explore a wide range of movie categories on Moviesda. Find your favorite genres and discover new films."
             />
             <div className="container mx-auto">
                 <h1 className="text-2xl font-bold mb-6">Category: {category} - Page {currentPage} </h1>

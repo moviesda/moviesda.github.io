@@ -7,7 +7,7 @@ export default function PostPage({ post }: { post: Post }) {
     return (
         <>
             <NextSeo
-                title={`${post.name} Movie Download - 1TamilMV`}
+                title={`${post.name} Movie Download - Moviesda`}
                 description=""
                 openGraph={{
                     title: post.name,
@@ -21,7 +21,7 @@ export default function PostPage({ post }: { post: Post }) {
                             alt: post.name,
                         },
                     ],
-                    site_name: '1TamilMV',
+                    site_name: 'Moviesda',
                 }}
                 additionalMetaTags={[
                     {

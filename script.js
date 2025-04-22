@@ -21,7 +21,7 @@ function getAllMovies() {
     return movies;
 }
 
-const baseUrl = 'https://1tamilmv.mom'; // replace with your real domain
+const baseUrl = 'https://moviesda.github.io'; // replace with your real domain
 const outputDir = path.join(process.cwd(), 'public', 'sitemaps');
 
 function generateSitemaps() {
